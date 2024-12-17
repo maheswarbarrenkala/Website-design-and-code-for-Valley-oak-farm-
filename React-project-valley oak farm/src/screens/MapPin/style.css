@@ -1,0 +1,29 @@
+.map-pin {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.map-pin .div-wrapper {
+  height: 24px;
+  width: 24px;
+}
+
+.map-pin .vector-wrapper {
+  background-image: url(../../../static/img/vector-3.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 2px;
+  position: relative;
+  width: 20px;
+}
+
+.map-pin .vector-2 {
+  height: 8px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 8px;
+}

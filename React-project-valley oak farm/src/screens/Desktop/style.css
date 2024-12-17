@@ -1,0 +1,3912 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  height: 5798px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .group {
+  height: 493px;
+  left: 128px;
+  position: absolute;
+  top: 4933px;
+  width: 1187px;
+}
+
+.desktop .group-2 {
+  height: 371px;
+  left: 666px;
+  position: absolute;
+  top: 0;
+  width: 529px;
+}
+
+.desktop .rectangle {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 204px;
+  width: 521px;
+}
+
+.desktop .text-wrapper {
+  color: #8c8c8c;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 34px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 212px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: 521px;
+}
+
+.desktop .email-ID {
+  color: #8c8c8c;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 34px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+  width: 521px;
+}
+
+.desktop .text-wrapper-2 {
+  color: #8c8c8c;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 34px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-4 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 521px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #00000073;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 50px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 508px;
+}
+
+.desktop .group-3 {
+  height: 233px;
+  left: 0;
+  position: absolute;
+  top: 69px;
+  width: 565px;
+}
+
+.desktop .book-an-appointment {
+  color: #ffff00;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 126px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 561px;
+}
+
+.desktop .fresh-air-friendly {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 78px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  width: 493px;
+}
+
+.desktop .submit-your-request {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 124px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 561px;
+}
+
+.desktop .share-your-happiness {
+  color: #000000b5;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 77px;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  width: 493px;
+}
+
+.desktop .component {
+  height: 61px;
+  left: 370px;
+  position: absolute;
+  top: 432px;
+  width: 444px;
+}
+
+.desktop .rectangle-5 {
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 31px;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.desktop .order-here {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 444px;
+}
+
+.desktop .group-4 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.desktop .rectangle-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.desktop .text-wrapper-4 {
+  color: #626262;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .element-kalana-ave {
+  color: #707070;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1065px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5624px;
+  width: 298px;
+}
+
+.desktop .header {
+  background-color: transparent;
+  height: 92px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .rectangle-7 {
+  background-color: #ffffff;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .group-5 {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.desktop .text-wrapper-5 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(2.69, 134.3, 0) 0%,
+    rgb(3.7, 185.3, 0) 50.2%,
+    rgb(4.72, 236.3, 0) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 15px;
+  width: 380px;
+}
+
+.desktop .logo {
+  height: 92px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.desktop .frame {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  height: 39px;
+  left: 854px;
+  padding: 0px 25px;
+  position: absolute;
+  top: 25px;
+  width: 586px;
+}
+
+.desktop .home {
+  height: 38.79px;
+  position: relative;
+  width: 83.9px;
+}
+
+.desktop .text-wrapper-6 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop .home-wrapper {
+  height: 38.79px;
+  position: relative;
+  width: 75.51px;
+}
+
+.desktop .home-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop .home-3 {
+  height: 38.79px;
+  position: relative;
+  width: 60.83px;
+}
+
+.desktop .home-4 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop .home-5 {
+  height: 38px;
+  position: relative;
+  width: 119px;
+}
+
+.desktop .home-6 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop .icon-shopping-basket {
+  height: 29.09px;
+  position: relative;
+  width: 37.75px;
+}
+
+.desktop .icon-user-circle {
+  height: 29.09px;
+  position: relative;
+  width: 32.02px;
+}
+
+.desktop .group-6 {
+  height: 39px;
+  left: 876px;
+  position: absolute;
+  top: 27px;
+  width: 534px;
+}
+
+.desktop .home-7 {
+  display: block;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.desktop .home-8 {
+  height: 39px;
+  left: 109px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop .home-9 {
+  height: 39px;
+  left: 209px;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.desktop .home-10 {
+  height: 38px;
+  left: 295px;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.desktop .icon-shopping-basket-2 {
+  height: 29px;
+  left: 439px;
+  position: absolute;
+  top: 5px;
+  width: 38px;
+}
+
+.desktop .icon-user-circle-2 {
+  height: 29px;
+  left: 502px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.desktop .group-7 {
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 2118px;
+  width: 1440px;
+}
+
+.desktop .group-8 {
+  height: 72px;
+  left: 0;
+  position: fixed;
+  top: 96px;
+  width: 1442px;
+}
+
+.desktop .rectangle-8 {
+  background: linear-gradient(
+    180deg,
+    rgba(222.26, 218.56, 218.56, 0) 34.45%,
+    rgb(182.86, 255, 176.59) 100%
+  );
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .text-wrapper-7 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.desktop .rectangle-9 {
+  background-color: #ffffff;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .text-wrapper-8 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 361px;
+}
+
+.desktop .component-2 {
+  height: 61px;
+  left: 572px;
+  position: absolute;
+  top: 3368px;
+  width: 296px;
+}
+
+.desktop .rectangle-10 {
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 262px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 296px;
+}
+
+.desktop .text {
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 801px;
+  width: 1440px;
+}
+
+.desktop .landing-page {
+  height: 709px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 1440px;
+}
+
+.desktop .group-wrapper {
+  height: 709px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .group-9 {
+  height: 709px;
+  position: relative;
+  width: 1446px;
+}
+
+.desktop .firefly-grass-or {
+  height: 709px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .rectangle-11 {
+  background: linear-gradient(
+    180deg,
+    rgba(178.55, 254.15, 171.97, 0.2) 4.59%,
+    rgba(255, 255, 255, 0.2) 100%
+  );
+  box-shadow: 0px 4px 4px #00000040;
+  height: 709px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .text-wrapper-10 {
+  color: #c16000;
+  font-family: "Beau Rivage", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 870px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+  width: 530px;
+}
+
+.desktop .text-wrapper-11 {
+  color: #c16000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 145px;
+  width: 344px;
+}
+
+.desktop .valley-oak-farms-VOF {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 872px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 487px;
+}
+
+.desktop .component-3 {
+  height: 51px;
+  left: 1033px;
+  position: absolute;
+  top: 588px;
+  width: 166px;
+}
+
+.desktop .rectangle-12 {
+  background-color: #03b900;
+  border-radius: 15px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 166px;
+}
+
+.desktop .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.desktop .icon-shopping-cart {
+  height: 28px;
+  left: 11px;
+  position: absolute;
+  top: 13px;
+  width: 28px;
+}
+
+.desktop .group-10 {
+  height: 1162px;
+  left: 0;
+  position: absolute;
+  top: 1201px;
+  width: 1442px;
+}
+
+.desktop .rectangle-13 {
+  height: 1162px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .valley-oak-farms {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  height: 111px;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 918px;
+}
+
+.desktop .group-11 {
+  height: 964px;
+  left: 65px;
+  position: absolute;
+  top: 1390px;
+  width: 1364px;
+}
+
+.desktop .group-12 {
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.desktop .rectangle-14 {
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.desktop .rectangle-15 {
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop .firefly-raw-milk-in {
+  height: 237px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop .text-wrapper-13 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 31px;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 101px;
+}
+
+.desktop .group-13 {
+  height: 352px;
+  left: 490px;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.desktop .firefly-raw-milk-in-2 {
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop .text-wrapper-14 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 29px;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  white-space: nowrap;
+}
+
+.desktop .group-14 {
+  height: 352px;
+  left: 981px;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.desktop .text-wrapper-15 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 29px;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  white-space: nowrap;
+}
+
+.desktop .group-15 {
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop .text-wrapper-16 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 29px;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.desktop .per-basket-lb {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 14px;
+  left: 224px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+}
+
+.desktop .span {
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop .group-16 {
+  height: 352px;
+  left: 490px;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop .text-wrapper-17 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 29px;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.desktop .p {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 14px;
+  left: 228px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+}
+
+.desktop .group-17 {
+  height: 352px;
+  left: 981px;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop .per-basket-lb-2 {
+  -webkit-text-stroke: 1px transparent;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 14px;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+}
+
+.desktop .more {
+  color: #5772ff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1294px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 941px;
+  white-space: nowrap;
+}
+
+.desktop .component-4 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 61px;
+  left: 507px;
+  position: absolute;
+  top: 851px;
+  width: 296px;
+}
+
+.desktop .let-us-know {
+  height: 602px;
+  left: 0;
+  opacity: 0.95;
+  position: absolute;
+  top: 2363px;
+  width: 1440px;
+}
+
+.desktop .group-18 {
+  height: 602px;
+  position: relative;
+  width: 1444px;
+}
+
+.desktop .firefly-farm-organic {
+  height: 602px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .always-ask-if-your {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 245px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 948px;
+}
+
+.desktop .try-on-a-one-times {
+  -webkit-text-stroke: 1px #bfb9b9;
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  width: 956px;
+}
+
+.desktop .component-wrapper {
+  height: 61px;
+  left: 600px;
+  position: absolute;
+  top: 424px;
+  width: 240px;
+}
+
+.desktop .component-5 {
+  border: 1px solid;
+  border-color: #bfb9b9d4;
+  height: 61px;
+  position: relative;
+}
+
+.desktop .rectangle-16 {
+  background-color: #028600;
+  border-radius: 25px;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.desktop .let-us-know-2 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.desktop .rectangle-17 {
+  height: 1401px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4124px;
+  width: 1440px;
+}
+
+.desktop .group-19 {
+  height: 1159px;
+  left: 0;
+  position: absolute;
+  top: 2965px;
+  width: 1442px;
+}
+
+.desktop .firefly-packaged {
+  height: 1159px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .group-20 {
+  height: 350px;
+  left: 820px;
+  position: absolute;
+  top: 648px;
+  width: 331px;
+}
+
+.desktop .rectangle-18 {
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.desktop .rectangle-19 {
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop .firefly-raw-milk-in-3 {
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop .text-wrapper-18 {
+  -webkit-text-stroke: 1px #dfdfdf;
+  color: #000000;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop .group-21 {
+  height: 350px;
+  left: 315px;
+  position: absolute;
+  top: 648px;
+  width: 331px;
+}
+
+.desktop .group-22 {
+  height: 350px;
+  left: 1047px;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop .group-23 {
+  height: 350px;
+  left: 556px;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop .group-24 {
+  height: 350px;
+  left: 65px;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop .packaged-products {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  height: 70px;
+  left: 389px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+}
+
+.desktop .component-6 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 60px;
+  left: 572px;
+  position: absolute;
+  top: 1026px;
+  width: 296px;
+}
+
+.desktop .rectangle-20 {
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.desktop .component-7 {
+  height: 565px;
+  left: 28px;
+  overflow: hidden;
+  position: absolute;
+  top: 4203px;
+  width: 1384px;
+}
+
+.desktop .group-25 {
+  height: 565px;
+  position: relative;
+  width: 7476px;
+}
+
+.desktop .review {
+  height: 561px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1380px;
+}
+
+.desktop .group-26 {
+  height: 561px;
+  left: -4px;
+  position: relative;
+  width: 1392px;
+}
+
+.desktop .rectangle-21 {
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1388px;
+}
+
+.desktop .rectangle-22 {
+  height: 422px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 471px;
+}
+
+.desktop .text-wrapper-19 {
+  color: #ffffffdb;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+}
+
+.desktop .love-their {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 141px;
+  left: 603px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop .group-27 {
+  height: 43px;
+  left: 617px;
+  position: absolute;
+  top: 354px;
+  width: 331px;
+}
+
+.desktop .review-2 {
+  height: 561px;
+  left: 1519px;
+  position: absolute;
+  top: 4px;
+  width: 1385px;
+}
+
+.desktop .group-28 {
+  height: 561px;
+  left: -1px;
+  position: relative;
+  width: 1392px;
+}
+
+.desktop .rectangle-23 {
+  height: 422px;
+  left: -17139px;
+  object-fit: cover;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop .text-wrapper-20 {
+  color: #ffffffdb;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 55px;
+  left: 591px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+}
+
+.desktop .valley-oak-farm {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 141px;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop .group-29 {
+  height: 42px;
+  left: -16618px;
+  position: absolute;
+  top: -11637px;
+  width: 331px;
+}
+
+.desktop .review-3 {
+  height: 561px;
+  left: 3043px;
+  position: absolute;
+  top: 0;
+  width: 1384px;
+}
+
+.desktop .group-30 {
+  height: 561px;
+  left: -2px;
+  position: relative;
+  width: 1392px;
+}
+
+.desktop .rectangle-24 {
+  height: 422px;
+  left: -18662px;
+  object-fit: cover;
+  position: absolute;
+  top: -11922px;
+  width: 471px;
+}
+
+.desktop .text-wrapper-21 {
+  color: #ffffffdb;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 55px;
+  left: 592px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+}
+
+.desktop .valley-oak-farm-is-a {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 141px;
+  left: 601px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop .group-31 {
+  height: 42px;
+  left: -18151px;
+  position: absolute;
+  top: -11629px;
+  width: 331px;
+}
+
+.desktop .review-4 {
+  height: 561px;
+  left: 4566px;
+  position: absolute;
+  top: 4px;
+  width: 1390px;
+}
+
+.desktop .group-32 {
+  height: 561px;
+  left: 1px;
+  position: relative;
+  width: 1392px;
+}
+
+.desktop .rectangle-25 {
+  height: 422px;
+  left: -20188px;
+  object-fit: cover;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop .text-wrapper-22 {
+  color: #ffffffdb;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 55px;
+  left: 589px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+}
+
+.desktop .valley-oak-farm-isn {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 188px;
+  left: 598px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 150px;
+  width: 759px;
+}
+
+.desktop .group-33 {
+  height: 42px;
+  left: -19675px;
+  position: absolute;
+  top: -11621px;
+  width: 333px;
+}
+
+.desktop .review-5 {
+  height: 561px;
+  left: 6090px;
+  position: absolute;
+  top: 4px;
+  width: 1386px;
+}
+
+.desktop .rectangle-26 {
+  height: 422px;
+  left: -21710px;
+  object-fit: cover;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop .valley-oak-farm-goes {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 188px;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 150px;
+  width: 759px;
+}
+
+.desktop .group-34 {
+  height: 42px;
+  left: -21188px;
+  position: absolute;
+  top: -11621px;
+  width: 332px;
+}
+
+.desktop .rectangle-27 {
+  background-color: #a6a2a282;
+  border-radius: 30px;
+  height: 584px;
+  left: 28px;
+  position: absolute;
+  top: 4876px;
+  width: 1384px;
+}
+
+.desktop .group-35 {
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 5525px;
+  width: 1440px;
+}
+
+.desktop .group-36 {
+  height: 1950px;
+  left: -3px;
+  position: absolute;
+  top: 168px;
+  width: 1451px;
+}
+
+.desktop .rectangle-28 {
+  background-color: #c7d0ff30;
+  border-radius: 20px;
+  height: 1950px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.desktop .rectangle-29 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  height: 315px;
+  left: 463px;
+  position: absolute;
+  top: 721px;
+  width: 520px;
+}
+
+.desktop .text-wrapper-23 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 654px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 750px;
+  width: 137px;
+}
+
+.desktop .group-37 {
+  height: 200px;
+  left: 526px;
+  position: absolute;
+  top: 32px;
+  width: 395px;
+}
+
+.desktop .basil-leaf {
+  height: 200px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.desktop .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  width: 235px;
+}
+
+.desktop .rectangle-30 {
+  background-color: #03b9002b;
+  border-radius: 20px;
+  height: 610px;
+  left: 55px;
+  position: absolute;
+  top: 1219px;
+  width: 1336px;
+}
+
+.desktop .rectangle-31 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  height: 315px;
+  left: 126px;
+  position: absolute;
+  top: 265px;
+  width: 520px;
+}
+
+.desktop .text-wrapper-25 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: 348px;
+}
+
+.desktop .user-alt-svgrepo {
+  height: 116px;
+  left: 338px;
+  position: absolute;
+  top: 388px;
+  width: 90px;
+}
+
+.desktop .rectangle-32 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  height: 315px;
+  left: 803px;
+  position: absolute;
+  top: 265px;
+  width: 520px;
+}
+
+.desktop .text-wrapper-26 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 931px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 350px;
+  width: 272px;
+}
+
+.desktop .text-wrapper-27 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 937px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 292px;
+  width: 258px;
+}
+
+.desktop .group-38 {
+  height: 159px;
+  left: 659px;
+  position: absolute;
+  top: 807px;
+  width: 121px;
+}
+
+.desktop .component-8 {
+  height: 65px;
+  left: 557px;
+  position: absolute;
+  top: 1096px;
+  width: 332px;
+}
+
+.desktop .rectangle-33 {
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 65px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.desktop .order-here-2 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 332px;
+}
+
+.desktop .rectangle-34 {
+  background-color: #f6f7ff;
+  height: 698px;
+  left: 0;
+  position: absolute;
+  top: 168px;
+  width: 1440px;
+}
+
+.desktop .group-39 {
+  height: 653px;
+  left: 66px;
+  position: absolute;
+  top: 192px;
+  width: 1029px;
+}
+
+.desktop .rectangle-35 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 653px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1009px;
+}
+
+.desktop .richer-taste-from {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 130px;
+  width: 469px;
+}
+
+.desktop .text-wrapper-28 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 117px;
+}
+
+.desktop .rectangle-36 {
+  height: 259px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 235px;
+}
+
+.desktop .text-wrapper-29 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.desktop .line {
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 938px;
+}
+
+.desktop .line-2 {
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 938px;
+}
+
+.desktop .text-wrapper-30 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 936px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 44px;
+}
+
+.desktop .rectangle-37 {
+  background-color: #ffffffdb;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 15px;
+  height: 29px;
+  left: 300px;
+  position: absolute;
+  top: 298px;
+  width: 88px;
+}
+
+.desktop .text-wrapper-31 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 309px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 296px;
+  width: 31px;
+}
+
+.desktop .text-wrapper-32 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 346px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+
+.desktop .vector-3 {
+  height: 9px;
+  left: 367px;
+  position: absolute;
+  top: 309px;
+  width: 14px;
+}
+
+.desktop .line-3 {
+  height: 41px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.desktop .line-4 {
+  height: 41px;
+  left: 476px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.desktop .text-wrapper-33 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 419px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  width: 45px;
+}
+
+.desktop .text-wrapper-34 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 489px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  width: 97px;
+}
+
+.desktop .text-wrapper-35 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 932px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+  width: 36px;
+}
+
+.desktop .text-wrapper-36 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 855px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 361px;
+  width: 123px;
+}
+
+.desktop .component-9 {
+  height: 62px;
+  left: 272px;
+  position: absolute;
+  top: 429px;
+  width: 478px;
+}
+
+.desktop .rectangle-38 {
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 62px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.desktop .order-here-3 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 478px;
+}
+
+.desktop .group-40 {
+  height: 76px;
+  left: 0;
+  position: fixed;
+  top: 92px;
+  width: 1444px;
+}
+
+.desktop .rectangle-39 {
+  background: linear-gradient(
+    180deg,
+    rgba(222.26, 218.56, 218.56, 0) 34.45%,
+    rgb(182.86, 255, 176.59) 100%
+  );
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .div-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 361px;
+}
+
+.desktop .back {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1313px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 79px;
+}
+
+.desktop .group-41 {
+  height: 610px;
+  left: 30px;
+  position: absolute;
+  top: 207px;
+  width: 1385px;
+}
+
+.desktop .rectangle-40 {
+  background-color: #03b9000a;
+  border-radius: 5px;
+  height: 610px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1381px;
+}
+
+.desktop .we-re-valley-oak {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 551px;
+}
+
+.desktop .line-5 {
+  height: 486px;
+  left: 689px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 2px;
+}
+
+.desktop .text-wrapper-37 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+}
+
+.desktop .basil-leaf-2 {
+  height: 90px;
+  left: 210px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 209px;
+}
+
+.desktop .banner {
+  height: 486px;
+  left: 757px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 596px;
+}
+
+.desktop .group-42 {
+  height: 1381px;
+  left: 59px;
+  position: absolute;
+  top: 870px;
+  width: 1326px;
+}
+
+.desktop .element {
+  height: 829px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.desktop .free-img {
+  height: 500px;
+  left: 616px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 333px;
+}
+
+.desktop .farming-free-img {
+  height: 500px;
+  left: 989px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 333px;
+}
+
+.desktop .image {
+  height: 500px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 881px;
+  width: 333px;
+}
+
+.desktop .chickens-free-range {
+  height: 500px;
+  left: 989px;
+  object-fit: cover;
+  position: absolute;
+  top: 881px;
+  width: 333px;
+}
+
+.desktop .rectangle-41 {
+  background-color: #ebfeeb;
+  height: 295px;
+  left: 616px;
+  position: absolute;
+  top: 0;
+  width: 706px;
+}
+
+.desktop .rectangle-42 {
+  background-color: #ecffec;
+  height: 500px;
+  left: 372px;
+  position: absolute;
+  top: 881px;
+  width: 577px;
+}
+
+.desktop .natural-farming {
+  color: transparent;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  height: 468px;
+  left: 386px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 898px;
+  width: 546px;
+}
+
+.desktop .text-wrapper-38 {
+  color: #c16000;
+}
+
+.desktop .text-wrapper-39 {
+  color: #000000;
+  font-size: 40px;
+}
+
+.desktop .grow-with-us-valley {
+  color: transparent;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  height: 203px;
+  left: 656px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 626px;
+}
+
+.desktop .group-43 {
+  height: 226px;
+  left: -2px;
+  position: absolute;
+  top: 2303px;
+  width: 1442px;
+}
+
+.desktop .rectangle-43 {
+  background: linear-gradient(
+    180deg,
+    rgb(236, 255, 236) 11.88%,
+    rgb(199.54, 208.41, 255) 100%
+  );
+  box-shadow: 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .group-44 {
+  height: 107px;
+  left: 617px;
+  position: absolute;
+  top: 50px;
+  width: 246px;
+}
+
+.desktop .text-wrapper-40 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 242px;
+}
+
+.desktop .text-wrapper-41 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 63px;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 178px;
+}
+
+.desktop .text-wrapper-42 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 120px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 306px;
+}
+
+.desktop .group-45 {
+  height: 107px;
+  left: 1115px;
+  position: absolute;
+  top: 50px;
+  width: 266px;
+}
+
+.desktop .text-wrapper-43 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 63px;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 101px;
+}
+
+.desktop .text-wrapper-44 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 262px;
+}
+
+.desktop .group-46 {
+  height: 917px;
+  left: 48px;
+  position: absolute;
+  top: 2581px;
+  width: 1345px;
+}
+
+.desktop .big-logo {
+  height: 835px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 942px;
+}
+
+.desktop .rectangle-44 {
+  background-color: #f5fcf5;
+  height: 879px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 38px;
+  width: 1345px;
+}
+
+.desktop .group-47 {
+  height: 70px;
+  left: 70px;
+  position: absolute;
+  top: 681px;
+  width: 300px;
+}
+
+.desktop .logo-leaf-new {
+  height: 70px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .logo-leaf-new-2 {
+  height: 70px;
+  left: 216px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .logo-leaf-new-3 {
+  height: 70px;
+  left: 162px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .logo-leaf-new-4 {
+  height: 70px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .logo-leaf-new-5 {
+  height: 70px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .logo-leaf-new-6 {
+  height: 70px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.desktop .group-48 {
+  height: 504px;
+  left: 46px;
+  position: absolute;
+  top: 134px;
+  width: 352px;
+}
+
+.desktop .organic-badge {
+  height: 190px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 232px;
+}
+
+.desktop .text-wrapper-45 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 63px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+}
+
+.desktop .text-wrapper-46 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  height: 165px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 339px;
+  width: 348px;
+}
+
+.desktop .rectangle-45 {
+  background-color: #d9d9d9;
+  height: 504px;
+  left: 981px;
+  position: absolute;
+  top: 134px;
+  width: 324px;
+}
+
+.desktop .component-10 {
+  border-radius: 15px;
+  height: 506px;
+  left: 981px;
+  overflow: hidden;
+  position: absolute;
+  top: 134px;
+  width: 324px;
+}
+
+.desktop .group-49 {
+  height: 506px;
+  position: relative;
+  width: 4307px;
+}
+
+.desktop .firefly-farm-fresh {
+  height: 504px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .firefly-natural {
+  height: 504px;
+  left: 569px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .firefly-eggs-from {
+  height: 504px;
+  left: 1138px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .firefly-raw-milk-in-4 {
+  height: 504px;
+  left: 1707px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 324px;
+}
+
+.desktop .firefly-packaged-2 {
+  height: 504px;
+  left: 2276px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .firefly-packaged-3 {
+  height: 504px;
+  left: 2845px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 324px;
+}
+
+.desktop .firefly-packaged-4 {
+  height: 504px;
+  left: 3414px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .firefly-farm-fresh-2 {
+  height: 504px;
+  left: 3983px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.desktop .group-50 {
+  height: 70px;
+  left: 993px;
+  position: absolute;
+  top: 681px;
+  width: 300px;
+}
+
+.desktop .group-51 {
+  height: 843px;
+  left: 51px;
+  position: absolute;
+  top: 3546px;
+  width: 1348px;
+}
+
+.desktop .rectangle-46 {
+  background-color: #f8fdf8;
+  height: 843px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1345px;
+}
+
+.desktop .text-wrapper-47 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  height: 63px;
+  left: 601px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.desktop .component-11 {
+  border-radius: 15px;
+  height: 737px;
+  left: 3px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 1343px;
+}
+
+.desktop .group-52 {
+  height: 737px;
+  position: relative;
+  width: 8265px;
+}
+
+.desktop .group-53 {
+  height: 737px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1347px;
+}
+
+.desktop .img-2 {
+  height: 737px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1343px;
+}
+
+.desktop .rectangle-47 {
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 311px;
+  position: absolute;
+  top: 284px;
+  width: 940px;
+}
+
+.desktop .text-wrapper-48 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  height: 195px;
+  left: 351px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  width: 846px;
+}
+
+.desktop .from-neglected-land {
+  color: transparent;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 55px;
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+  width: 732px;
+}
+
+.desktop .text-wrapper-49 {
+  color: #ffff00;
+}
+
+.desktop .text-wrapper-50 {
+  color: #ffffff;
+}
+
+.desktop .group-54 {
+  height: 737px;
+  left: 1689px;
+  position: absolute;
+  top: 0;
+  width: 1345px;
+}
+
+.desktop .rectangle-48 {
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 321px;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  height: 355px;
+  left: 356px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 306px;
+  width: 874px;
+}
+
+.desktop .group-55 {
+  height: 737px;
+  left: 6922px;
+  position: absolute;
+  top: 0;
+  width: 1345px;
+}
+
+.desktop .rectangle-49 {
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 324px;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop .traded-SF-s-rush-for {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  height: 249px;
+  left: 388px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 337px;
+  width: 789px;
+}
+
+.desktop .group-56 {
+  height: 737px;
+  left: 3468px;
+  position: absolute;
+  top: 0;
+  width: 1345px;
+}
+
+.desktop .soil-tests-revealed {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  height: 195px;
+  left: 377px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 384px;
+  width: 829px;
+}
+
+.desktop .group-57 {
+  height: 737px;
+  left: 5247px;
+  position: absolute;
+  top: 0;
+  width: 1345px;
+}
+
+.desktop .rectangle-50 {
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 299px;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  height: 274px;
+  left: 386px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 318px;
+  width: 768px;
+}
+
+.desktop .group-58 {
+  height: 72px;
+  left: 0;
+  position: fixed;
+  top: 92px;
+  width: 1444px;
+}
+
+.desktop .text-wrapper-53 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.desktop .text-wrapper-54 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.desktop .group-59 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 1444px;
+}
+
+.desktop .text-wrapper-55 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-56 {
+  font-weight: 700;
+}
+
+.desktop .back-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa Ink", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1313px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.desktop .rectangle-51 {
+  background-color: #f6f7ff;
+  height: 794px;
+  left: 0;
+  position: absolute;
+  top: 168px;
+  width: 1440px;
+}
+
+.desktop .maps-link-https-maps {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 171px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 715px;
+}
+
+.desktop .group-60 {
+  height: 47px;
+  left: 443px;
+  position: absolute;
+  top: 571px;
+  width: 500px;
+}
+
+.desktop .rectangle-52 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.desktop .vector-4 {
+  height: 15px;
+  left: 451px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.desktop .text-wrapper-57 {
+  color: #626262;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .vector-5 {
+  height: 34px;
+  left: -1px;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.desktop .line-6 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 209px;
+  width: 900px;
+}
+
+.desktop .line-7 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 786px;
+  width: 900px;
+}
+
+.desktop .text-wrapper-58 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 229px;
+}
+
+.desktop .group-61 {
+  height: 47px;
+  left: 303px;
+  position: absolute;
+  top: 234px;
+  width: 440px;
+}
+
+.desktop .group-62 {
+  height: 47px;
+  left: 303px;
+  position: absolute;
+  top: 305px;
+  width: 438px;
+}
+
+.desktop .group-63 {
+  height: 47px;
+  position: relative;
+  width: 440px;
+}
+
+.desktop .group-64 {
+  height: 47px;
+  left: 303px;
+  position: absolute;
+  top: 376px;
+  width: 438px;
+}
+
+.desktop .group-65 {
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 962px;
+  width: 1440px;
+}
+
+.desktop .group-66 {
+  height: 21px;
+  left: 395px;
+  position: absolute;
+  top: 523px;
+  width: 129px;
+}
+
+.desktop .line-8 {
+  height: 1px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 45px;
+}
+
+.desktop .or {
+  color: #000000;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-59 {
+  color: #000000;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 45px;
+}
+
+.desktop .text-wrapper-60 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 564px;
+}
+
+.desktop .farm-address {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 197px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 645px;
+}
+
+.desktop .rectangle-53 {
+  background-color: #f4f6ffdb;
+  height: 3881px;
+  left: 0;
+  position: absolute;
+  top: 232px;
+  width: 1440px;
+}
+
+.desktop .group-67 {
+  height: 664px;
+  left: 32px;
+  position: absolute;
+  top: 3256px;
+  width: 1380px;
+}
+
+.desktop .rectangle-54 {
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1376px;
+}
+
+.desktop .group-68 {
+  height: 482px;
+  left: 970px;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop .rectangle-55 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.desktop .text-wrapper-61 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 90px;
+}
+
+.desktop .text-wrapper-62 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 227px;
+}
+
+.desktop .line-10 {
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop .group-69 {
+  height: 54px;
+  left: 58px;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop .rectangle-56 {
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.desktop .add-to-basket {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.desktop .text-wrapper-63 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 29px;
+}
+
+.desktop .group-70 {
+  height: 482px;
+  left: 532px;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop .oz-per-basket {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 202px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+}
+
+.desktop .text-wrapper-64 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .add-to-basket-2 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.desktop .free-shipping {
+  color: #000000b5;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 1258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+}
+
+.desktop .rectangle-57 {
+  height: 255px;
+  left: 561px;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop .rectangle-58 {
+  height: 255px;
+  left: 998px;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop .group-71 {
+  height: 482px;
+  left: 94px;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop .text-wrapper-65 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 197px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 84px;
+}
+
+.desktop .text-wrapper-66 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 113px;
+}
+
+.desktop .img-3 {
+  height: 255px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 236px;
+}
+
+.desktop .group-72 {
+  height: 664px;
+  left: 32px;
+  position: absolute;
+  top: 1788px;
+  width: 1380px;
+}
+
+.desktop .div-3 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.desktop .text-wrapper-67 {
+  text-decoration: underline;
+}
+
+.desktop .text-wrapper-68 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop .group-73 {
+  height: 482px;
+  left: 97px;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop .group-74 {
+  height: 54px;
+  left: 59px;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop .text-wrapper-69 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .oz-per-basket-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+}
+
+.desktop .per-basket {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+}
+
+.desktop .text-wrapper-70 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .firefly-raw-milk-in-5 {
+  height: 255px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop .rectangle-59 {
+  height: 255px;
+  left: 560px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop .group-75 {
+  height: 664px;
+  left: 32px;
+  position: absolute;
+  top: 2522px;
+  width: 1380px;
+}
+
+.desktop .text-wrapper-71 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 75px;
+}
+
+.desktop .lb-per-basket {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 203px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+}
+
+.desktop .text-wrapper-72 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .rectangle-60 {
+  height: 255px;
+  left: 998px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop .per-basket-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 56px;
+}
+
+.desktop .group-76 {
+  height: 664px;
+  left: 31px;
+  position: absolute;
+  top: 1054px;
+  width: 1380px;
+}
+
+.desktop .text-wrapper-73 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .text-wrapper-74 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .free-shipping-2 {
+  color: #000000b5;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+}
+
+.desktop .text-wrapper-75 {
+  color: #000000b5;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-76 {
+  font-size: 15px;
+}
+
+.desktop .firefly-packaged-5 {
+  height: 255px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop .assorted-teas {
+  height: 255px;
+  left: 560px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop .group-77 {
+  height: 664px;
+  left: 31px;
+  position: absolute;
+  top: 320px;
+  width: 1386px;
+}
+
+.desktop .rectangle-61 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 97px;
+  position: absolute;
+  top: 131px;
+  width: 291px;
+}
+
+.desktop .rectangle-62 {
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 156px;
+  position: absolute;
+  top: 559px;
+  width: 176px;
+}
+
+.desktop .add-to-basket-3 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 572px;
+  white-space: nowrap;
+}
+
+.desktop .firefly-farm-fresh-3 {
+  height: 255px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop .text-wrapper-77 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 211px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 441px;
+}
+
+.desktop .line-11 {
+  height: 1px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 236px;
+}
+
+.desktop .lb-per-basket-2 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 298px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 479px;
+}
+
+.desktop .free-shipping-3 {
+  color: #000000b5;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 630px;
+}
+
+.desktop .text-wrapper-78 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .group-78 {
+  height: 482px;
+  left: 966px;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop .lb-per-basket-3 {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 201px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+}
+
+.desktop .red-chilies {
+  color: #000000;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.desktop .rectangle-63 {
+  height: 245px;
+  left: -20139px;
+  position: absolute;
+  top: -5102px;
+  width: 236px;
+}
+
+.desktop .group-79 {
+  height: 48px;
+  left: 31px;
+  position: fixed;
+  top: 171px;
+  width: 1373px;
+}
+
+.desktop .group-80 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1375px;
+}
+
+.desktop .rectangle-64 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 15px 0px 0px 15px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.desktop .text-wrapper-79 {
+  color: #8c8c8c;
+  font-family: "Aref Ruqaa", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 30px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 174px;
+}
+
+.desktop .rectangle-65 {
+  background-color: #028600;
+  border-radius: 0px 15px 15px 0px;
+  height: 45px;
+  left: 397px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.desktop .logo-leaf-new-7 {
+  height: 35px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.desktop .logo-leaf-new-8 {
+  height: 35px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 33px;
+}
+
+.desktop .group-81 {
+  height: 40px;
+  left: 480px;
+  position: absolute;
+  top: 6px;
+  width: 224px;
+}
+
+.desktop .group-82 {
+  height: 40px;
+  left: 1001px;
+  position: absolute;
+  top: 6px;
+  width: 191px;
+}
+
+.desktop .group-83 {
+  height: 40px;
+  left: 819px;
+  position: absolute;
+  top: 6px;
+  width: 168px;
+}
+
+.desktop .group-84 {
+  height: 40px;
+  left: 718px;
+  position: absolute;
+  top: 6px;
+  width: 87px;
+}
+
+.desktop .slider {
+  height: 40px;
+  left: 1333px;
+  position: absolute;
+  top: 2px;
+  width: 40px;
+}
+
+.desktop .group-85 {
+  height: 40px;
+  left: 1206px;
+  position: absolute;
+  top: 6px;
+  width: 109px;
+}
