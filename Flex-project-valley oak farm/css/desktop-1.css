@@ -1,0 +1,9061 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  background-color: #ffffff;
+  height: 5798px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .text-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/text.png);
+  background-size: 100% 100%;
+  height: 400px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 801px;
+  width: 1440px;
+}
+
+.desktop-1 .landing-page-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 92px;
+  width: 1440px;
+}
+
+.desktop-1 .group-4-oW3l6L {
+  --z-index: 0;
+  background-color: transparent;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .group-3-R7qJaA {
+  --z-index: 0;
+  background-color: transparent;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1446px;
+}
+
+.desktop-1 .firefly-grass-or-pla-2xS5Pt {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-grass-or-plants-for-a-background-of-a-display-for-deskto.png);
+  background-size: 100% 100%;
+  height: 709px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .rectangle-2-2xS5Pt {
+  --z-index: 1;
+  background: linear-gradient(180deg, rgba(178.54889273643494, 254.14998561143875, 171.97485029697418, 0.20000000298023224) 4.5852430164813995%, rgba(255, 255, 255, 0.20000000298023224) 100%);
+  background-color: transparent;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .join-the-movement-2xS5Pt {
+  --z-index: 2;
+  background-color: transparent;
+  color: #c16000;
+  font-family: 'Beau Rivage', Helvetica;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 870px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 530px;
+}
+
+.desktop-1 .surname-2xS5Pt {
+  --z-index: 3;
+  background-color: transparent;
+  color: #c16000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 963px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 145px;
+  width: 344px;
+}
+
+.desktop-1 .valley-oak-farms-vo-2xS5Pt {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 872px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 487px;
+}
+
+.desktop-1 .component-1-oW3l6L {
+  --z-index: 1;
+  background-color: transparent;
+  height: 51px;
+  left: 1033px;
+  opacity: 1;
+  position: absolute;
+  top: 588px;
+  width: 166px;
+}
+
+.desktop-1 .rectangle-6-nOjoJy {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 15px;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.desktop-1 .join-now-nOjoJy {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .icon-shopping-cart-nOjoJy {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-cart-@2x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  left: 11px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 28px;
+}
+
+.desktop-1 .group-8-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 1162px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1201px;
+  width: 1442px;
+}
+
+.desktop-1 .rectangle-8-3cZhlu {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-8.png);
+  background-size: 100% 100%;
+  height: 1162px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .valley-oak-farms-current-offerings-3cZhlu {
+  --z-index: 1;
+  -webkit-text-stroke: 1px #000000;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  height: 111px;
+  left: 260px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 918px;
+}
+
+.desktop-1 .group-20-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 964px;
+  left: 65px;
+  opacity: 1;
+  position: absolute;
+  top: 1390px;
+  width: 1364px;
+}
+
+.desktop-1 .group-9-IE4p6q {
+  --z-index: 0;
+  background-color: transparent;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-7qHimN {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-7qHimN {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-7qHimN {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1.png);
+  background-size: 100% 100%;
+  height: 237px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .raw-milk-7qHimN {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 101px;
+}
+
+.desktop-1 .group-15-IE4p6q {
+  --z-index: 1;
+  background-color: transparent;
+  height: 352px;
+  left: 490px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-Ch3VKZ {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-Ch3VKZ {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-Ch3VKZ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-1.png);
+  background-size: 100% 100%;
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop-1 .eggs-Ch3VKZ {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .group-11-IE4p6q {
+  --z-index: 2;
+  background-color: transparent;
+  height: 352px;
+  left: 981px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-Dhn4Vo {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-Dhn4Vo {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-Dhn4Vo {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-2.png);
+  background-size: 100% 100%;
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop-1 .honey-Dhn4Vo {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 130px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .group-16-IE4p6q {
+  --z-index: 3;
+  background-color: transparent;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop-1 .group-12-ZxpSg6 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-P46vUg {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-P46vUg {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-P46vUg {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-3.png);
+  background-size: 100% 100%;
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop-1 .fresh-fruits-P46vUg {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .per-basket-lb-ZxpSg6 {
+  --z-index: 1;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  left: 224px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .span0-NRjxA8 {
+  font-style: normal;
+}
+
+.desktop-1 .span1-NRjxA8 {
+  font-style: normal;
+}
+
+.desktop-1 .group-17-IE4p6q {
+  --z-index: 4;
+  background-color: transparent;
+  height: 352px;
+  left: 490px;
+  opacity: 1;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop-1 .group-13-ABBAvJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-kqcObv {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-kqcObv {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-kqcObv {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-4.png);
+  background-size: 100% 100%;
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop-1 .fresh-vegetables-kqcObv {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .per-basket-lb-ABBAvJ {
+  --z-index: 1;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  left: 228px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .span0-Q7QtSl {
+  font-style: normal;
+}
+
+.desktop-1 .span1-Q7QtSl {
+  font-style: normal;
+}
+
+.desktop-1 .group-18-IE4p6q {
+  --z-index: 5;
+  background-color: transparent;
+  height: 352px;
+  left: 981px;
+  opacity: 1;
+  position: absolute;
+  top: 434px;
+  width: 331px;
+}
+
+.desktop-1 .group-14-Bfxozr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-CVNSfZ {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 352px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-CVNSfZ {
+  --z-index: 1;
+  background-color: #d6d6d6;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 317px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-CVNSfZ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-5.png);
+  background-size: 100% 100%;
+  height: 239px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  width: 258px;
+}
+
+.desktop-1 .organic-legume-CVNSfZ {
+  --z-index: 3;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 29px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .per-basket-lb-Bfxozr {
+  --z-index: 1;
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  left: 227px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .span0-AFtGK4 {
+  font-style: normal;
+}
+
+.desktop-1 .span1-AFtGK4 {
+  font-style: normal;
+}
+
+.desktop-1 .more-IE4p6q {
+  --z-index: 6;
+  background-color: transparent;
+  color: #5772ff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1294px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 941px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .component-2-IE4p6q {
+  --z-index: 7;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  height: 61px;
+  left: 507px;
+  opacity: 1;
+  position: absolute;
+  top: 851px;
+  width: 296px;
+}
+
+.desktop-1 .rectangle-11-BK4e8u {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 262px;
+}
+
+.desktop-1 .order-here-BK4e8u {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 296px;
+}
+
+.desktop-1 .let-us-know-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 602px;
+  left: 0px;
+  opacity: 0.95;
+  position: absolute;
+  top: 2363px;
+  width: 1440px;
+}
+
+.desktop-1 .group-21-4SZVVu {
+  --z-index: 0;
+  background-color: transparent;
+  height: 602px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1444px;
+}
+
+.desktop-1 .firefly-farm-organic-ABj4Jy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-farm-organic-items-in-dimensions-1440-196-74803-1.png);
+  background-size: 100% 100%;
+  height: 602px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .always-ask-if-your-f-ABj4Jy {
+  --z-index: 1;
+  -webkit-text-stroke: 1px #000000;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 948px;
+}
+
+.desktop-1 .try-on-a-one-times-b-ABj4Jy {
+  --z-index: 2;
+  -webkit-text-stroke: 1px #bfb9b9;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  width: 956px;
+}
+
+.desktop-1 .group-19-ABj4Jy {
+  --z-index: 3;
+  background-color: transparent;
+  cursor: pointer;
+  height: 61px;
+  left: 600px;
+  opacity: 1;
+  position: absolute;
+  top: 424px;
+  width: 240px;
+}
+
+.desktop-1 .component-3-j2jnjD {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: #bfb9b9d4;
+  height: 61px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 240px;
+}
+
+.desktop-1 .rectangle-13-BNhWVH {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 25px;
+  height: 61px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 240px;
+}
+
+.desktop-1 .let-us-know-BNhWVH {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.desktop-1 .rectangle-15-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-15.png);
+  background-size: 100% 100%;
+  height: 1401px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4124px;
+  width: 1440px;
+}
+
+.desktop-1 .group-26-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 1159px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 2965px;
+  width: 1442px;
+}
+
+.desktop-1 .firefly-packaged-farm-products-47365-1-aRbOOb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-packaged-farm-products-47365-1.png);
+  background-size: 100% 100%;
+  height: 1159px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .group-24-aRbOOb {
+  --z-index: 1;
+  background-color: transparent;
+  height: 350px;
+  left: 820px;
+  opacity: 1;
+  position: absolute;
+  top: 648px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-1tP9nk {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-1tP9nk {
+  --z-index: 1;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-1tP9nk {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-6.png);
+  background-size: 100% 100%;
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .fruit-rolls-1tP9nk {
+  --z-index: 3;
+  -webkit-text-stroke: 1px #dfdfdf;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop-1 .group-23-aRbOOb {
+  --z-index: 2;
+  background-color: transparent;
+  height: 350px;
+  left: 315px;
+  opacity: 1;
+  position: absolute;
+  top: 648px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-bXVvnK {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-bXVvnK {
+  --z-index: 1;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-bXVvnK {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-7.png);
+  background-size: 100% 100%;
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .dried-herbs-bXVvnK {
+  --z-index: 3;
+  -webkit-text-stroke: 1px #dfdfdf;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop-1 .group-22-aRbOOb {
+  --z-index: 3;
+  background-color: transparent;
+  height: 350px;
+  left: 1047px;
+  opacity: 1;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-iNwo4b {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-iNwo4b {
+  --z-index: 1;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-iNwo4b {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-8.png);
+  background-size: 100% 100%;
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .jam-jelly-iNwo4b {
+  --z-index: 3;
+  -webkit-text-stroke: 1px #dfdfdf;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop-1 .group-21-aRbOOb {
+  --z-index: 4;
+  background-color: transparent;
+  height: 350px;
+  left: 556px;
+  opacity: 1;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-rpfis1 {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-rpfis1 {
+  --z-index: 1;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-rpfis1 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-9.png);
+  background-size: 100% 100%;
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .name-rpfis1 {
+  --z-index: 3;
+  -webkit-text-stroke: 1px #dfdfdf;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop-1 .group-9-aRbOOb {
+  --z-index: 5;
+  background-color: transparent;
+  height: 350px;
+  left: 65px;
+  opacity: 1;
+  position: absolute;
+  top: 193px;
+  width: 331px;
+}
+
+.desktop-1 .rectangle-9-txYUAp {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 15px;
+  height: 350px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.desktop-1 .rectangle-10-txYUAp {
+  --z-index: 1;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-radius: 15px;
+  height: 316px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 283px;
+}
+
+.desktop-1 .firefly-raw-milk-in-txYUAp {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-10.png);
+  background-size: 100% 100%;
+  height: 236px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 258px;
+}
+
+.desktop-1 .sparkling-mineral-water-txYUAp {
+  --z-index: 3;
+  -webkit-text-stroke: 1px #dfdfdf;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 290px;
+  width: 257px;
+}
+
+.desktop-1 .packaged-products-and-goods-aRbOOb {
+  --z-index: 6;
+  -webkit-text-stroke: 1px #000000;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  height: 70px;
+  left: 389px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: auto;
+}
+
+.desktop-1 .component-2-aRbOOb {
+  --z-index: 7;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  height: 60px;
+  left: 572px;
+  opacity: 1;
+  position: absolute;
+  top: 1026px;
+  width: 296px;
+}
+
+.desktop-1 .rectangle-11-51frYm {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 60px;
+  left: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 261px;
+}
+
+.desktop-1 .order-here-51frYm {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 296px;
+}
+
+.desktop-1 .component-4-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 565px;
+  left: 28px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 4203px;
+  width: 1384px;
+}
+
+.desktop-1 .group-34-p4wM3n {
+  --z-index: 0;
+  background-color: transparent;
+  height: 565px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 7476px;
+}
+
+.desktop-1 .review-v9bMGl {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 1380px;
+}
+
+.desktop-1 .group-29-RAr2o6 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: -4px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1392px;
+}
+
+.desktop-1 .rectangle-16-UxLWwj {
+  --z-index: 0;
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1388px;
+}
+
+.desktop-1 .rectangle-17-UxLWwj {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+  height: 422px;
+  left: 81px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 66px;
+  width: 471px;
+}
+
+.desktop-1 .customer-review-UxLWwj {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffffdb;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+  width: auto;
+}
+
+.desktop-1 .love-their-commitme-UxLWwj {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 141px;
+  left: 603px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop-1 .group-28-UxLWwj {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-28@2x.png);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 617px;
+  opacity: 1;
+  position: absolute;
+  top: 354px;
+  width: 331px;
+}
+
+.desktop-1 .review-8RyT6H {
+  --z-index: 1;
+  background-color: transparent;
+  height: 561px;
+  left: 1519px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 1385px;
+}
+
+.desktop-1 .group-30-3wGCHq {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: -1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1392px;
+}
+
+.desktop-1 .rectangle-16-67sbDF {
+  --z-index: 0;
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1388px;
+}
+
+.desktop-1 .rectangle-17-67sbDF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+  height: 422px;
+  left: -17139px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop-1 .customer-review-67sbDF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffffdb;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 591px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+  width: auto;
+}
+
+.desktop-1 .valley-oak-farm-rai-67sbDF {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 141px;
+  left: 600px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop-1 .group-28-67sbDF {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-28-1@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: -16618px;
+  opacity: 1;
+  position: absolute;
+  top: -11637px;
+  width: 331px;
+}
+
+.desktop-1 .review-KsFx5a {
+  --z-index: 2;
+  background-color: transparent;
+  height: 561px;
+  left: 3043px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1384px;
+}
+
+.desktop-1 .group-31-SYBIIF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: -2px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1392px;
+}
+
+.desktop-1 .rectangle-16-gGqFlg {
+  --z-index: 0;
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1388px;
+}
+
+.desktop-1 .rectangle-17-gGqFlg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+  height: 422px;
+  left: -18662px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -11922px;
+  width: 471px;
+}
+
+.desktop-1 .customer-review-gGqFlg {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffffdb;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 592px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+  width: auto;
+}
+
+.desktop-1 .valley-oak-farm-is-gGqFlg {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 141px;
+  left: 601px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  width: 759px;
+}
+
+.desktop-1 .group-28-gGqFlg {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-28-1@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: -18151px;
+  opacity: 1;
+  position: absolute;
+  top: -11629px;
+  width: 331px;
+}
+
+.desktop-1 .review-lILPvQ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 561px;
+  left: 4566px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 1390px;
+}
+
+.desktop-1 .group-32-kNIwza {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: 1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1392px;
+}
+
+.desktop-1 .rectangle-16-atCmCw {
+  --z-index: 0;
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1388px;
+}
+
+.desktop-1 .rectangle-17-atCmCw {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+  height: 422px;
+  left: -20188px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop-1 .customer-review-atCmCw {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffffdb;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 589px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+  width: auto;
+}
+
+.desktop-1 .valley-oak-farm-isn-atCmCw {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 188px;
+  left: 598px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  width: 759px;
+}
+
+.desktop-1 .group-28-atCmCw {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-28-1@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: -19675px;
+  opacity: 1;
+  position: absolute;
+  top: -11621px;
+  width: 333px;
+}
+
+.desktop-1 .review-zGgxkp {
+  --z-index: 4;
+  background-color: transparent;
+  height: 561px;
+  left: 6090px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 1386px;
+}
+
+.desktop-1 .group-33-G3TH8q {
+  --z-index: 0;
+  background-color: transparent;
+  height: 561px;
+  left: -1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 1392px;
+}
+
+.desktop-1 .rectangle-16-EEV8A0 {
+  --z-index: 0;
+  background-color: #a6a2a2b2;
+  border-radius: 30px;
+  height: 561px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1388px;
+}
+
+.desktop-1 .rectangle-17-EEV8A0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+  height: 422px;
+  left: -21710px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -11926px;
+  width: 471px;
+}
+
+.desktop-1 .customer-review-EEV8A0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffffdb;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 591px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 62px;
+  width: auto;
+}
+
+.desktop-1 .valley-oak-farm-goe-EEV8A0 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 188px;
+  left: 600px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  width: 759px;
+}
+
+.desktop-1 .group-28-EEV8A0 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-28-1@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: -21188px;
+  opacity: 1;
+  position: absolute;
+  top: -11621px;
+  width: 332px;
+}
+
+.desktop-1 .rectangle-18-C61RwL {
+  --z-index: 8;
+  background-color: #a6a2a282;
+  border-radius: 30px;
+  height: 584px;
+  left: 28px;
+  opacity: 1;
+  position: absolute;
+  top: 4876px;
+  width: 1384px;
+}
+
+.desktop-1 .group-91-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 493px;
+  left: 128px;
+  opacity: 1;
+  position: absolute;
+  top: 4933px;
+  width: 1187px;
+}
+
+.desktop-1 .group-35-5bY6Fd {
+  --z-index: 0;
+  background-color: transparent;
+  height: 371px;
+  left: 666px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 529px;
+}
+
+.desktop-1 .rectangle-24-gArQRa {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 167px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 204px;
+  width: 521px;
+}
+
+.desktop-1 .comments-gArQRa {
+  --z-index: 1;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 212px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .rectangle-23-gArQRa {
+  --z-index: 2;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 136px;
+  width: 521px;
+}
+
+.desktop-1 .email-id-gArQRa {
+  --z-index: 3;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .rectangle-22-gArQRa {
+  --z-index: 4;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 68px;
+  width: 521px;
+}
+
+.desktop-1 .phone-number-gArQRa {
+  --z-index: 5;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-1 .rectangle-19-gArQRa {
+  --z-index: 6;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 521px;
+}
+
+.desktop-1 .your-name-gArQRa {
+  --z-index: 7;
+  background-color: transparent;
+  color: #00000073;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 50px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 508px;
+}
+
+.desktop-1 .group-36-5bY6Fd {
+  --z-index: 1;
+  background-color: transparent;
+  height: 233px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 69px;
+  width: 565px;
+}
+
+.desktop-1 .book-an-appointment-for-a-farm-tour-lHV2c7 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #ffff00;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 126px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 561px;
+}
+
+.desktop-1 .fresh-air-friendly-lHV2c7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 78px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  width: 493px;
+}
+
+.desktop-1 .component-2-5bY6Fd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 61px;
+  left: 370px;
+  opacity: 1;
+  position: absolute;
+  top: 432px;
+  width: 444px;
+}
+
+.desktop-1 .rectangle-11-bKTxcr {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 31px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 392px;
+}
+
+.desktop-1 .order-here-bKTxcr {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 444px;
+}
+
+.desktop-1 .group-58-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/group-58.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 5525px;
+  width: 1440px;
+}
+
+.desktop-1 .address-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #707070;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1065px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5624px;
+  width: 298px;
+}
+
+.desktop-1 .header-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-1 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+
+.desktop-1 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 15px;
+  width: 380px;
+}
+
+.desktop-1 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 127px;
+}
+
+.desktop-1 .frame-1-GdFcY6 {
+  --z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 25px;
+  height: 39px;
+  left: 854px;
+  opacity: 1;
+  padding: 0px 25px;
+  position: absolute;
+  top: 25px;
+  width: 586px;
+}
+
+.desktop-1 .home-ZJk7YB {
+  --z-index: 0;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 83.8970947265625px;
+}
+
+.desktop-1 .place-BcvWD6 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-1 .home-yOfE2k {
+  --z-index: 1;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 75.50738525390625px;
+}
+
+.desktop-1 .home-hHWazB {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-1 .home-1apBUd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 60.82539367675781px;
+}
+
+.desktop-1 .home-6nmqVU {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-1 .home-Os5BlZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  opacity: 1;
+  position: relative;
+  width: 119px;
+}
+
+.desktop-1 .home-EQ4cEI {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-1 .icon-shopping-basket-ZJk7YB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket-@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 37.75390625px;
+}
+
+.desktop-1 .icon-user-circle-ZJk7YB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle-@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 32.0164794921875px;
+}
+/* screen - desktop-3 */
+
+.desktop-3 {
+  background-color: #ffffff;
+  height: 2391px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-3 .group-64-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 1950px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 168px;
+  width: 1451px;
+}
+
+.desktop-3 .rectangle-36-PsxVLr {
+  --z-index: 0;
+  background-color: #c7d0ff30;
+  border-radius: 20px;
+  height: 1950px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1443px;
+}
+
+.desktop-3 .rectangle-39-PsxVLr {
+  --z-index: 1;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040 , 0px 5px 4px #00000040;
+  height: 315px;
+  left: 463px;
+  opacity: 1;
+  position: absolute;
+  top: 721px;
+  width: 520px;
+}
+
+.desktop-3 .location-PsxVLr {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 654px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 750px;
+  width: 137px;
+}
+
+.desktop-3 .group-62-PsxVLr {
+  --z-index: 3;
+  background-color: transparent;
+  height: 200px;
+  left: 526px;
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  width: 395px;
+}
+
+.desktop-3 .basil-leaf-2-yvDxnh {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/basil-leaf-2@2x.png);
+  background-size: 100% 100%;
+  height: 200px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.desktop-3 .get-in-touch-yvDxnh {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 235px;
+}
+
+.desktop-3 .rectangle-56-PsxVLr {
+  --z-index: 4;
+  background-color: #03b9002b;
+  border-radius: 20px;
+  height: 610px;
+  left: 55px;
+  opacity: 1;
+  position: absolute;
+  top: 1219px;
+  width: 1336px;
+}
+
+.desktop-3 .rectangle-37-PsxVLr {
+  --z-index: 5;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040 , 0px 5px 4px #00000040;
+  height: 315px;
+  left: 126px;
+  opacity: 1;
+  position: absolute;
+  top: 265px;
+  width: 520px;
+}
+
+.desktop-3 .alfiya-PsxVLr {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 208px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: 348px;
+}
+
+.desktop-3 .user-alt-1_svgrepocom-PsxVLr {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/user-alt-1-svgrepo-com@2x.png);
+  background-size: 100% 100%;
+  height: 116px;
+  left: 338px;
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  width: 90px;
+}
+
+.desktop-3 .rectangle-38-PsxVLr {
+  --z-index: 8;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040 , 0px 5px 4px #00000040;
+  height: 315px;
+  left: 803px;
+  opacity: 1;
+  position: absolute;
+  top: 265px;
+  width: 520px;
+}
+
+.desktop-3 .address-PsxVLr {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 931px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 350px;
+  width: 272px;
+}
+
+.desktop-3 .mailing-address-PsxVLr {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 937px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 292px;
+  width: 258px;
+}
+
+.desktop-3 .group-63-PsxVLr {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-63@2x.png);
+  background-size: 100% 100%;
+  height: 159px;
+  left: 659px;
+  opacity: 1;
+  position: absolute;
+  top: 807px;
+  width: 121px;
+}
+
+.desktop-3 .component-2-PsxVLr {
+  --z-index: 12;
+  background-color: transparent;
+  height: 65px;
+  left: 557px;
+  opacity: 1;
+  position: absolute;
+  top: 1096px;
+  width: 332px;
+}
+
+.desktop-3 .rectangle-11-TDOJKm {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 65px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.desktop-3 .order-here-TDOJKm {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 332px;
+}
+
+.desktop-3 .group-59-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-59.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 2118px;
+  width: 1440px;
+}
+
+.desktop-3 .group-91-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 463px;
+  left: 171px;
+  opacity: 1;
+  position: absolute;
+  top: 1462px;
+  width: 1187px;
+}
+
+.desktop-3 .group-35-5bY6Fd {
+  --z-index: 0;
+  background-color: transparent;
+  height: 365px;
+  left: 666px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 529px;
+}
+
+.desktop-3 .rectangle-24-gArQRa {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 164px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 201px;
+  width: 521px;
+}
+
+.desktop-3 .comments-gArQRa {
+  --z-index: 1;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 209px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.desktop-3 .rectangle-23-gArQRa {
+  --z-index: 2;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 49px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 134px;
+  width: 521px;
+}
+
+.desktop-3 .email-id-gArQRa {
+  --z-index: 3;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 142px;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.desktop-3 .rectangle-22-gArQRa {
+  --z-index: 4;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 49px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 67px;
+  width: 521px;
+}
+
+.desktop-3 .phone-number-gArQRa {
+  --z-index: 5;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.desktop-3 .rectangle-19-gArQRa {
+  --z-index: 6;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 49px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 521px;
+}
+
+.desktop-3 .your-name-gArQRa {
+  --z-index: 7;
+  background-color: transparent;
+  color: #00000073;
+  font-family: 'Times New Roman-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 508px;
+}
+
+.desktop-3 .group-36-5bY6Fd {
+  --z-index: 1;
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 565px;
+}
+
+.desktop-3 .submit-your-requesthere-lHV2c7 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 124px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 561px;
+}
+
+.desktop-3 .share-your-happiness-lHV2c7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 77px;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  width: 493px;
+}
+
+.desktop-3 .component-2-5bY6Fd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 60px;
+  left: 809px;
+  opacity: 1;
+  position: absolute;
+  top: 403px;
+  width: 247px;
+}
+
+.desktop-3 .rectangle-11-bKTxcr {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 60px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 218px;
+}
+
+.desktop-3 .order-here-bKTxcr {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 247px;
+}
+
+.desktop-3 .group-61-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 96px;
+  width: 1442px;
+}
+
+.desktop-3 .rectangle-26-ynAtcP {
+  --z-index: 0;
+  background: linear-gradient(180deg, rgba(222.26171672344208, 218.55735629796982, 218.55735629796982, 0) 34.44696664810181%, rgb(182.8605517745018, 255, 176.58751398324966) 100%);
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-3 .contact-us-ynAtcP {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.desktop-3 .header-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-3 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-3 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1412px;
+}
+
+.desktop-3 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 16px;
+  width: 379px;
+}
+
+.desktop-3 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.desktop-3 .group-1-GdFcY6 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 39px;
+  left: 876px;
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  width: 534px;
+}
+
+.desktop-3 .home-ZyUBb9 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 84px;
+}
+
+.desktop-3 .place-eUlt6v {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-3 .home-hB6CBE {
+  --z-index: 1;
+  background-color: transparent;
+  height: 39px;
+  left: 109px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.desktop-3 .home-iwkxGk {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-3 .home-HszsEK {
+  --z-index: 2;
+  background-color: transparent;
+  height: 39px;
+  left: 209px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.desktop-3 .home-bfpgGc {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-3 .home-6eAs1l {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  left: 295px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.desktop-3 .home-6xwLkT {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-3 .icon-shopping-basket-ZyUBb9 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket--1@2x.png);
+  background-size: 100% 100%;
+  height: 29px;
+  left: 439px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 38px;
+}
+
+.desktop-3 .icon-user-circle-ZyUBb9 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle--1@2x.png);
+  background-size: 100% 100%;
+  height: 29px;
+  left: 502px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+/* screen - desktop-5 */
+
+.desktop-5 {
+  background-color: #ffffff;
+  height: 1139px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-5 .rectangle-51-C61RwL {
+  --z-index: 0;
+  background-color: #f6f7ff;
+  height: 698px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 168px;
+  width: 1440px;
+}
+
+.desktop-5 .group-85-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 653px;
+  left: 66px;
+  opacity: 1;
+  position: absolute;
+  top: 192px;
+  width: 1029px;
+}
+
+.desktop-5 .rectangle-52-rFX9Nh {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 653px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1009px;
+}
+
+.desktop-5 .richer-taste-from-fr-rFX9Nh {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  width: 469px;
+}
+
+.desktop-5 .raw-eggs-rFX9Nh {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  width: 117px;
+}
+
+.desktop-5 .rectangle-49-rFX9Nh {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-1.png);
+  background-size: 100% 100%;
+  height: 259px;
+  left: 42px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 75px;
+  width: 235px;
+}
+
+.desktop-5 .items-added-to-your-basket-rFX9Nh {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 375px;
+}
+
+.desktop-5 .line-5-rFX9Nh {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/line-5.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 57px;
+  width: 938px;
+}
+
+.desktop-5 .line-8-rFX9Nh {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/line-8.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 356px;
+  width: 938px;
+}
+
+.desktop-5 .surname-rFX9Nh {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 936px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 44px;
+}
+
+.desktop-5 .rectangle-53-rFX9Nh {
+  --z-index: 8;
+  background-color: #ffffffdb;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 15px;
+  height: 29px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 298px;
+  width: 88px;
+}
+
+.desktop-5 .qty-rFX9Nh {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 31px;
+}
+
+.desktop-5 .number-rFX9Nh {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 346px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 298px;
+  width: 8px;
+}
+
+.desktop-5 .vector-rFX9Nh {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/vector-7.svg);
+  background-size: 100% 100%;
+  height: 9px;
+  left: 367px;
+  opacity: 1;
+  position: absolute;
+  top: 309px;
+  width: 14px;
+}
+
+.desktop-5 .line-6-rFX9Nh {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/line-6.svg);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 406px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.desktop-5 .line-7-rFX9Nh {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/line-7.svg);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 476px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.desktop-5 .delete-rFX9Nh {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 298px;
+  width: 45px;
+}
+
+.desktop-5 .save-for-later-rFX9Nh {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 489px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 298px;
+  width: 97px;
+}
+
+.desktop-5 .price-rFX9Nh {
+  --z-index: 16;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  width: 36px;
+}
+
+.desktop-5 .sub-total-600-rFX9Nh {
+  --z-index: 17;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 361px;
+  width: 123px;
+}
+
+.desktop-5 .component-2-rFX9Nh {
+  --z-index: 18;
+  background-color: transparent;
+  height: 62px;
+  left: 272px;
+  opacity: 1;
+  position: absolute;
+  top: 429px;
+  width: 478px;
+}
+
+.desktop-5 .rectangle-11-xkDELE {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 62px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 422px;
+}
+
+.desktop-5 .order-here-xkDELE {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 478px;
+}
+
+.desktop-5 .group-59-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-86.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 866px;
+  width: 1440px;
+}
+
+.desktop-5 .address-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #707070;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 965px;
+  width: 325px;
+}
+
+.desktop-5 .group-84-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 92px;
+  width: 1444px;
+}
+
+.desktop-5 .rectangle-26-ahGy4x {
+  --z-index: 0;
+  background: linear-gradient(180deg, rgba(222.26171672344208, 218.55735629796982, 218.55735629796982, 0) 34.44696664810181%, rgb(182.8605517745018, 255, 176.58751398324966) 100%);
+  background-color: transparent;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-5 .your-basket-ahGy4x {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 361px;
+}
+
+.desktop-5 .back-ahGy4x {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1313px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 79px;
+}
+
+.desktop-5 .header-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-5 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-5 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1437px;
+}
+
+.desktop-5 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 16px;
+  width: 379px;
+}
+
+.desktop-5 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.desktop-5 .frame-1-GdFcY6 {
+  --z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 25px;
+  height: 41px;
+  left: 851px;
+  opacity: 1;
+  padding: 0px 25px;
+  position: absolute;
+  top: 26px;
+}
+
+.desktop-5 .home-ZJk7YB {
+  --z-index: 0;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 83.8970947265625px;
+}
+
+.desktop-5 .place-BcvWD6 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-5 .home-yOfE2k {
+  --z-index: 1;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 75.50738525390625px;
+}
+
+.desktop-5 .home-hHWazB {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-5 .home-1apBUd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 60.82539367675781px;
+}
+
+.desktop-5 .home-6nmqVU {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-5 .home-Os5BlZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  opacity: 1;
+  position: relative;
+  width: 119px;
+}
+
+.desktop-5 .home-EQ4cEI {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-5 .icon-shopping-basket-ZJk7YB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 37.75390625px;
+}
+
+.desktop-5 .icon-user-circle-ZJk7YB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 32.0164794921875px;
+}
+/* screen - desktop-2 */
+
+.desktop-2 {
+  background-color: #ffffff;
+  height: 4711px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-2 .group-39-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 610px;
+  left: 30px;
+  opacity: 1;
+  position: absolute;
+  top: 207px;
+  width: 1385px;
+}
+
+.desktop-2 .rectangle-27-hFKELu {
+  --z-index: 0;
+  background-color: #03b9000a;
+  border-radius: 5px;
+  height: 610px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1381px;
+}
+
+.desktop-2 .were-valley-oak-far-hFKELu {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 551px;
+}
+
+.desktop-2 .line-1-hFKELu {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-1.svg);
+  background-size: 100% 100%;
+  height: 486px;
+  left: 689px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 67px;
+  width: 2px;
+}
+
+.desktop-2 .we-are-your-favorite-store-hFKELu {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: auto;
+}
+
+.desktop-2 .basil-leaf-1-hFKELu {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/basil-leaf-1.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 210px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 463px;
+  width: 209px;
+}
+
+.desktop-2 .banner-01-1-1-hFKELu {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/banner-01--1--1.png);
+  background-size: 100% 100%;
+  height: 486px;
+  left: 757px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 67px;
+  width: 596px;
+}
+
+.desktop-2 .group-42-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 1381px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 870px;
+  width: 1326px;
+}
+
+.desktop-2 .x1-wz81jh {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/1.png);
+  background-size: 100% 100%;
+  height: 829px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 576px;
+}
+
+.desktop-2 .farming04-free-img-wz81jh {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/farming04-free-img.png);
+  background-size: 100% 100%;
+  height: 500px;
+  left: 616px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 329px;
+  width: 333px;
+}
+
+.desktop-2 .farming03-free-img-wz81jh {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/farming03-free-img.png);
+  background-size: 100% 100%;
+  height: 500px;
+  left: 989px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 329px;
+  width: 333px;
+}
+
+.desktop-2 .image-01-wz81jh {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/image-01.png);
+  background-size: 100% 100%;
+  height: 500px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 881px;
+  width: 333px;
+}
+
+.desktop-2 .chickens-free-range-wz81jh {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/chickens-free-range.png);
+  background-size: 100% 100%;
+  height: 500px;
+  left: 989px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 881px;
+  width: 333px;
+}
+
+.desktop-2 .rectangle-28-wz81jh {
+  --z-index: 5;
+  background-color: #ebfeeb;
+  height: 295px;
+  left: 616px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 706px;
+}
+
+.desktop-2 .rectangle-29-wz81jh {
+  --z-index: 6;
+  background-color: #ecffec;
+  height: 500px;
+  left: 372px;
+  opacity: 1;
+  position: absolute;
+  top: 881px;
+  width: 577px;
+}
+
+.desktop-2 .natural-farming-di-wz81jh {
+  --z-index: 7;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  height: 468px;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 898px;
+  width: 546px;
+}
+
+.desktop-2 .span0-NLxxVN {
+  color: #c16000;
+  font-style: normal;
+}
+
+.desktop-2 .span1-NLxxVN {
+  color: #000000;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.desktop-2 .span2-NLxxVN {
+  color: #c16000;
+  font-style: normal;
+}
+
+.desktop-2 .span3-NLxxVN {
+  color: #000000;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.desktop-2 .grow-with-us-vall-wz81jh {
+  --z-index: 8;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  height: 203px;
+  left: 656px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 626px;
+}
+
+.desktop-2 .span0-wdRFBT {
+  color: #c16000;
+  font-style: normal;
+}
+
+.desktop-2 .span1-wdRFBT {
+  color: #000000;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.desktop-2 .span2-wdRFBT {
+  color: #c16000;
+  font-style: normal;
+}
+
+.desktop-2 .span3-wdRFBT {
+  color: #000000;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.desktop-2 .group-47-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 226px;
+  left: -2px;
+  opacity: 1;
+  position: absolute;
+  top: 2303px;
+  width: 1442px;
+}
+
+.desktop-2 .rectangle-30-uAs3px {
+  --z-index: 0;
+  background: linear-gradient(180deg, rgb(236.00000113248825, 255, 236.00000113248825) 11.877737939357758%, rgb(199.5374920964241, 208.41147512197495, 255) 100%);
+  background-color: transparent;
+  box-shadow: 0px 4px 4px #00000040 , inset 0px 4px 4px #00000040;
+  height: 226px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-2 .group-40-uAs3px {
+  --z-index: 1;
+  background-color: transparent;
+  height: 107px;
+  left: 617px;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  width: 246px;
+}
+
+.desktop-2 .curated-products-ZmTxit {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 242px;
+}
+
+.desktop-2 .text-1-ZmTxit {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 63px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 178px;
+}
+
+.desktop-2 .numbers-speak-for-themselves-uAs3px {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 120px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 306px;
+}
+
+.desktop-2 .group-41-uAs3px {
+  --z-index: 3;
+  background-color: transparent;
+  height: 107px;
+  left: 1115px;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  width: 266px;
+}
+
+.desktop-2 .text-2-AXWpXq {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 63px;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 101px;
+}
+
+.desktop-2 .product-categories-AXWpXq {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 262px;
+}
+
+.desktop-2 .group-46-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 917px;
+  left: 48px;
+  opacity: 1;
+  position: absolute;
+  top: 2581px;
+  width: 1345px;
+}
+
+.desktop-2 .big-logo-1-1-AvtzuR {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/big-logo--1--1.png);
+  background-size: 100% 100%;
+  height: 835px;
+  left: 191px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 942px;
+}
+
+.desktop-2 .rectangle-31-AvtzuR {
+  --z-index: 1;
+  background-color: #f5fcf5;
+  height: 879px;
+  left: 0px;
+  opacity: 0.7;
+  position: absolute;
+  top: 38px;
+  width: 1345px;
+}
+
+.desktop-2 .group-46-AvtzuR {
+  --z-index: 2;
+  background-color: transparent;
+  height: 70px;
+  left: 70px;
+  opacity: 1;
+  position: absolute;
+  top: 681px;
+  width: 300px;
+}
+
+.desktop-2 .logo-leaf-new-1-ofrNjy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 271px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-2-ofrNjy {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 216px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-3-ofrNjy {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 162px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-4-ofrNjy {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 108px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-5-ofrNjy {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 54px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-6-ofrNjy {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .group-43-AvtzuR {
+  --z-index: 3;
+  background-color: transparent;
+  height: 504px;
+  left: 46px;
+  opacity: 1;
+  position: absolute;
+  top: 134px;
+  width: 352px;
+}
+
+.desktop-2 .organic-badge-freeimg-1-Ru6T3j {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/organic-badge-freeimg-1.png);
+  background-size: 100% 100%;
+  height: 190px;
+  left: 58px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 232px;
+}
+
+.desktop-2 .certified-products-Ru6T3j {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  width: auto;
+}
+
+.desktop-2 .we-deal-with-various-Ru6T3j {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 165px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 339px;
+  width: 348px;
+}
+
+.desktop-2 .rectangle-32-AvtzuR {
+  --z-index: 4;
+  background-color: #d9d9d9;
+  height: 504px;
+  left: 981px;
+  opacity: 1;
+  position: absolute;
+  top: 134px;
+  width: 324px;
+}
+
+.desktop-2 .component-5-AvtzuR {
+  --z-index: 5;
+  background-color: transparent;
+  border-radius: 15px;
+  height: 506px;
+  left: 981px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 134px;
+  width: 324px;
+}
+
+.desktop-2 .group-44-GtrOA9 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 506px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 4307px;
+}
+
+.desktop-2 .firefly-farm-fresh-fruits-31877-qNTxlV {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-3.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-natural-honey-31877-qNTxlV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-2.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 569px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-eggs-from-farm-12423-qNTxlV {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-1.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 1138px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-raw-milk-in-glass-bottles-50932-qNTxlV {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 1707px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-packaged-far-qNTxlV {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-10.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 2276px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-packaged-far-jtemux {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-9.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 2845px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-packaged-far-iYxr8B {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-7.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 3414px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .firefly-farm-fresh-vegetables-94054-qNTxlV {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-4.png);
+  background-size: 100% 100%;
+  height: 504px;
+  left: 3983px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.desktop-2 .group-45-AvtzuR {
+  --z-index: 6;
+  background-color: transparent;
+  height: 70px;
+  left: 993px;
+  opacity: 1;
+  position: absolute;
+  top: 681px;
+  width: 300px;
+}
+
+.desktop-2 .logo-leaf-new-1-vaaAtT {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 271px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-2-vaaAtT {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 216px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-3-vaaAtT {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 162px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-4-vaaAtT {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 108px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-5-vaaAtT {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 54px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .logo-leaf-new-6-vaaAtT {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new-1@2x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.desktop-2 .component-2-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 61px;
+  left: 572px;
+  opacity: 1;
+  position: absolute;
+  top: 3368px;
+  width: 296px;
+}
+
+.desktop-2 .rectangle-11-esxmfg {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 262px;
+}
+
+.desktop-2 .order-here-esxmfg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 296px;
+}
+
+.desktop-2 .group-54-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 843px;
+  left: 51px;
+  opacity: 1;
+  position: absolute;
+  top: 3546px;
+  width: 1348px;
+}
+
+.desktop-2 .rectangle-35-HdSTrm {
+  --z-index: 0;
+  background-color: #f8fdf8;
+  height: 843px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1345px;
+}
+
+.desktop-2 .history-HdSTrm {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 63px;
+  left: 601px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.desktop-2 .component-6-HdSTrm {
+  --z-index: 2;
+  background-color: transparent;
+  border-radius: 15px;
+  height: 737px;
+  left: 3px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 1343px;
+}
+
+.desktop-2 .group-53-jC3BL8 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 737px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 8265px;
+}
+
+.desktop-2 .group-48-CcJC46 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 737px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1347px;
+}
+
+.desktop-2 .img_20140317_164019-FB9iOd {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/img-20140317-164019.png);
+  background-size: 100% 100%;
+  height: 737px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1343px;
+}
+
+.desktop-2 .rectangle-34-FB9iOd {
+  --z-index: 1;
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 311px;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  width: 940px;
+}
+
+.desktop-2 .this-property-was-pu-FB9iOd {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 195px;
+  left: 351px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  width: 846px;
+}
+
+.desktop-2 .from-neglected-land-to-new-beginnings-FB9iOd {
+  --z-index: 3;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 414px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+  width: 732px;
+}
+
+.desktop-2 .span0-AXJRaM {
+  color: #ffff00;
+  font-style: normal;
+}
+
+.desktop-2 .span1-AXJRaM {
+  color: #ffffff;
+  font-style: normal;
+}
+
+.desktop-2 .span2-AXJRaM {
+  color: #ffff00;
+  font-style: normal;
+}
+
+.desktop-2 .group-49-CcJC46 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 737px;
+  left: 1689px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1345px;
+}
+
+.desktop-2 .barn-studio-exterior-entrance-6bOGVw {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/barn-studio-exterior-entrance.png);
+  background-size: 100% 100%;
+  height: 737px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1343px;
+}
+
+.desktop-2 .rectangle-34-6bOGVw {
+  --z-index: 1;
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 321px;
+  opacity: 1;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop-2 .the-barn-in-this-sta-6bOGVw {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 355px;
+  left: 356px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 306px;
+  width: 874px;
+}
+
+.desktop-2 .group-50-CcJC46 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 737px;
+  left: 6922px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1345px;
+}
+
+.desktop-2 .firefly-house-and-fa-eYKdJF {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-house-and-farm-showing-the-beautiful-farm-38762.png);
+  background-size: 100% 100%;
+  height: 737px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1343px;
+}
+
+.desktop-2 .rectangle-34-eYKdJF {
+  --z-index: 1;
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 324px;
+  opacity: 1;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop-2 .traded-sfs-rush-for-eYKdJF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 249px;
+  left: 388px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 337px;
+  width: 789px;
+}
+
+.desktop-2 .group-51-CcJC46 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 737px;
+  left: 3468px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1345px;
+}
+
+.desktop-2 .firefly-a-split-imag-40xuSU {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-a-split-image-with-one-side-showing-a-soil-test-kit-anal.png);
+  background-size: 100% 100%;
+  height: 737px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1343px;
+}
+
+.desktop-2 .rectangle-35-40xuSU {
+  --z-index: 1;
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 321px;
+  opacity: 1;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop-2 .soil-tests-revealed-40xuSU {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 195px;
+  left: 377px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 384px;
+  width: 829px;
+}
+
+.desktop-2 .group-52-CcJC46 {
+  --z-index: 4;
+  background-color: transparent;
+  height: 737px;
+  left: 5247px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1345px;
+}
+
+.desktop-2 .firefly-a-close-up-p-cTSaoH {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/firefly-a-close-up-photo-of-simsim--your-tan-colored-jersey-milk.png);
+  background-size: 100% 100%;
+  height: 737px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1343px;
+}
+
+.desktop-2 .rectangle-34-cTSaoH {
+  --z-index: 1;
+  background-color: #a6a2a282;
+  border-radius: 15px;
+  height: 397px;
+  left: 299px;
+  opacity: 1;
+  position: absolute;
+  top: 288px;
+  width: 941px;
+}
+
+.desktop-2 .over-the-years-our-cTSaoH {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: 274px;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 318px;
+  width: 768px;
+}
+
+.desktop-2 .group-59-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/group-59-1.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4438px;
+  width: 1440px;
+}
+
+.desktop-2 .group-55-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 92px;
+  width: 1444px;
+}
+
+.desktop-2 .rectangle-26-4W6TZx {
+  --z-index: 0;
+  background: linear-gradient(180deg, rgba(222.26171672344208, 218.55735629796982, 218.55735629796982, 0) 34.44696664810181%, rgb(182.8605517745018, 255, 176.58751398324966) 100%);
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-2 .history-4W6TZx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.desktop-2 .about-4W6TZx {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.desktop-2 .header-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-2 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-2 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1437px;
+}
+
+.desktop-2 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 16px;
+  width: 379px;
+}
+
+.desktop-2 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.desktop-2 .frame-1-GdFcY6 {
+  --z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 25px;
+  height: 41px;
+  left: 851px;
+  opacity: 1;
+  padding: 0px 25px;
+  position: absolute;
+  top: 26px;
+}
+
+.desktop-2 .home-ZJk7YB {
+  --z-index: 0;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 83.8970947265625px;
+}
+
+.desktop-2 .place-BcvWD6 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-2 .home-yOfE2k {
+  --z-index: 1;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 75.50738525390625px;
+}
+
+.desktop-2 .home-hHWazB {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-2 .home-1apBUd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 60.82539367675781px;
+}
+
+.desktop-2 .home-6nmqVU {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-2 .home-Os5BlZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  opacity: 1;
+  position: relative;
+  width: 119px;
+}
+
+.desktop-2 .home-EQ4cEI {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-2 .icon-shopping-basket-ZJk7YB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 37.75390625px;
+}
+
+.desktop-2 .icon-user-circle-ZJk7YB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 32.0164794921875px;
+}
+/* screen - desktop-6 */
+
+.desktop-6 {
+  background-color: #ffffff;
+  height: 1235px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-6 .group-86-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  width: 1444px;
+}
+
+.desktop-6 .rectangle-26-cPi90N {
+  --z-index: 0;
+  background: linear-gradient(180deg, rgba(222.26171672344208, 218.55735629796982, 218.55735629796982, 0) 34.44696664810181%, rgb(182.8605517745018, 255, 176.58751398324966) 100%);
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-6 .check-out-1-item-cPi90N {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: 361px;
+}
+
+.desktop-6 .span0-1fm3rq {
+  font-style: normal;
+}
+
+.desktop-6 .span1-1fm3rq {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.desktop-6 .span2-1fm3rq {
+  font-style: normal;
+}
+
+.desktop-6 .back-cPi90N {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1313px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+}
+
+.desktop-6 .rectangle-54-C61RwL {
+  --z-index: 1;
+  background-color: #f6f7ff;
+  height: 794px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 168px;
+  width: 1440px;
+}
+
+.desktop-6 .maps-link-httpsm-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 715px;
+  width: auto;
+}
+
+.desktop-6 .group-92-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 47px;
+  left: 443px;
+  opacity: 1;
+  position: absolute;
+  top: 571px;
+  width: 500px;
+}
+
+.desktop-6 .rectangle-55-9ZROxt {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 60px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.desktop-6 .vector-9ZROxt {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-5.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 451px;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.desktop-6 .select-time-slot-availablity-9ZROxt {
+  --z-index: 2;
+  background-color: transparent;
+  color: #626262;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-6 .vector-vDidZx {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-6.svg);
+  background-size: 100% 100%;
+  height: 34px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 34px;
+}
+
+.desktop-6 .group-91-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47px;
+  left: 303px;
+  opacity: 1;
+  position: absolute;
+  top: 447px;
+  width: 438px;
+}
+
+.desktop-6 .group-88-5bY6Fd {
+  --z-index: 0;
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 440px;
+}
+
+.desktop-6 .rectangle-55-sbmb0I {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.desktop-6 .phone-number-sbmb0I {
+  --z-index: 1;
+  background-color: transparent;
+  color: #626262;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-6 .line-9-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/line-9.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 209px;
+  width: 900px;
+}
+
+.desktop-6 .line-10-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/line-10.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 786px;
+  width: 900px;
+}
+
+.desktop-6 .shipping-address-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 229px;
+  width: auto;
+}
+
+.desktop-6 .group-87-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 47px;
+  left: 303px;
+  opacity: 1;
+  position: absolute;
+  top: 234px;
+  width: 440px;
+}
+
+.desktop-6 .rectangle-55-D1n0rW {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.desktop-6 .address-D1n0rW {
+  --z-index: 1;
+  background-color: transparent;
+  color: #626262;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-6 .group-89-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 47px;
+  left: 303px;
+  opacity: 1;
+  position: absolute;
+  top: 305px;
+  width: 438px;
+}
+
+.desktop-6 .group-88-5brNdF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 440px;
+}
+
+.desktop-6 .rectangle-55-xpMoX8 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.desktop-6 .city-xpMoX8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #626262;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-6 .group-90-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 47px;
+  left: 303px;
+  opacity: 1;
+  position: absolute;
+  top: 376px;
+  width: 438px;
+}
+
+.desktop-6 .group-88-0N6bnk {
+  --z-index: 0;
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 440px;
+}
+
+.desktop-6 .rectangle-55-eBTi37 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a6a2a282;
+  border-radius: 10px;
+  height: 47px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.desktop-6 .zip-code-eBTi37 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #626262;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop-6 .component-2-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 61px;
+  left: 320px;
+  opacity: 1;
+  position: absolute;
+  top: 838px;
+  width: 296px;
+}
+
+.desktop-6 .rectangle-11-esxmfg {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 262px;
+}
+
+.desktop-6 .order-here-esxmfg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 296px;
+}
+
+.desktop-6 .group-86-VMr6Om {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/group-86.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 962px;
+  width: 1440px;
+}
+
+.desktop-6 .group-93-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 21px;
+  left: 395px;
+  opacity: 1;
+  position: absolute;
+  top: 523px;
+  width: 129px;
+}
+
+.desktop-6 .line-12-Gs7AKB {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-12.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 82px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 45px;
+}
+
+.desktop-6 .or-Gs7AKB {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-6 .span0-cvtuYu {
+  font-style: normal;
+}
+
+.desktop-6 .span1-cvtuYu {
+  font-style: normal;
+}
+
+.desktop-6 .line-11-Gs7AKB {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-12.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 45px;
+}
+
+.desktop-6 .pick-your-order-at-location-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 564px;
+  width: auto;
+}
+
+.desktop-6 .farm-address-425-ka-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 645px;
+  width: auto;
+}
+
+.desktop-6 .address-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: #707070;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1060px;
+  width: 329px;
+}
+
+.desktop-6 .header-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-6 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-6 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1437px;
+}
+
+.desktop-6 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 16px;
+  width: 379px;
+}
+
+.desktop-6 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 96px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.desktop-6 .frame-1-GdFcY6 {
+  --z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 25px;
+  height: 41px;
+  left: 851px;
+  opacity: 1;
+  padding: 0px 25px;
+  position: absolute;
+  top: 26px;
+}
+
+.desktop-6 .home-ZJk7YB {
+  --z-index: 0;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 83.8970947265625px;
+}
+
+.desktop-6 .place-BcvWD6 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-6 .home-yOfE2k {
+  --z-index: 1;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 75.50738525390625px;
+}
+
+.desktop-6 .home-hHWazB {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-6 .home-1apBUd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 60.82539367675781px;
+}
+
+.desktop-6 .home-6nmqVU {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-6 .home-Os5BlZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  opacity: 1;
+  position: relative;
+  width: 119px;
+}
+
+.desktop-6 .home-EQ4cEI {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-6 .icon-shopping-basket-ZJk7YB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 37.75390625px;
+}
+
+.desktop-6 .icon-user-circle-ZJk7YB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle--1@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 32.0164794921875px;
+}
+/* screen - desktop-4 */
+
+.desktop-4 {
+  background-color: #ffffff;
+  height: 4386px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-40-C61RwL {
+  --z-index: 0;
+  background-color: #f4f6ffdb;
+  height: 3881px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 232px;
+  width: 1440px;
+}
+
+.desktop-4 .group-82-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 664px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 3256px;
+  width: 1380px;
+}
+
+.desktop-4 .rectangle-48-ojBfAf {
+  --z-index: 0;
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1376px;
+}
+
+.desktop-4 .group-77-ojBfAf {
+  --z-index: 1;
+  background-color: transparent;
+  height: 482px;
+  left: 970px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-xQEjKT {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .oz-per-basket-xQEjKT {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 90px;
+}
+
+.desktop-4 .mineral-water-xQEjKT {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 227px;
+}
+
+.desktop-4 .line-3-xQEjKT {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-xQEjKT {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-meWo5f {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-meWo5f {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.desktop-4 .others-ojBfAf {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 29px;
+  width: auto;
+}
+
+.desktop-4 .group-75-ojBfAf {
+  --z-index: 3;
+  background-color: transparent;
+  height: 482px;
+  left: 532px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-ebAfno {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .oz-per-basket-ebAfno {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .virgin-olive-oil-ebAfno {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-3-ebAfno {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-ebAfno {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-GxGHVR {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-GxGHVR {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .free-shipping-ojBfAf {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1258px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+  width: auto;
+}
+
+.desktop-4 .rectangle-49-ojBfAf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-49@2x.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 561px;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop-4 .rectangle-50-ojBfAf {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-1@2x.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 998px;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop-4 .group-76-ojBfAf {
+  --z-index: 7;
+  background-color: transparent;
+  height: 482px;
+  left: 94px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-46-ZZgNcX {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .oz-per-basket-ZZgNcX {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 84px;
+}
+
+.desktop-4 .honey-ZZgNcX {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 113px;
+}
+
+.desktop-4 .line-4-ZZgNcX {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-73-ZZgNcX {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-wxg9xe {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-wxg9xe {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.desktop-4 .firefly-packaged-far-ZZgNcX {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-2.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 236px;
+}
+
+.desktop-4 .group-80-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 664px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 1788px;
+  width: 1380px;
+}
+
+.desktop-4 .rectangle-48-CX7m3G {
+  --z-index: 0;
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1376px;
+}
+
+.desktop-4 .dairy-poultry-CX7m3G {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+
+.desktop-4 .span0-WScBUY {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.desktop-4 .span1-WScBUY {
+  font-style: normal;
+}
+
+.desktop-4 .span2-WScBUY {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.desktop-4 .group-74-CX7m3G {
+  --z-index: 2;
+  background-color: transparent;
+  height: 482px;
+  left: 97px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-44-IsNKQk {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .group-71-IsNKQk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 54px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-m34Zxi {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-m34Zxi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .raw-milk-IsNKQk {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-2-IsNKQk {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .oz-per-basket-IsNKQk {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .group-75-CX7m3G {
+  --z-index: 3;
+  background-color: transparent;
+  height: 482px;
+  left: 532px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-8qG3EA {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .per-basket-8qG3EA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .eggs-8qG3EA {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-3-8qG3EA {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-8qG3EA {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-yzJxsl {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-yzJxsl {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .free-shipping-CX7m3G {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1258px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+  width: auto;
+}
+
+.desktop-4 .firefly-raw-milk-in-CX7m3G {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-2.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 124px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop-4 .rectangle-49-CX7m3G {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-1.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 560px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop-4 .group-81-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 664px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 2522px;
+  width: 1380px;
+}
+
+.desktop-4 .rectangle-48-7olElM {
+  --z-index: 0;
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1376px;
+}
+
+.desktop-4 .group-77-7olElM {
+  --z-index: 1;
+  background-color: transparent;
+  height: 482px;
+  left: 970px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-pRAXaR {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .lb-per-basket-pRAXaR {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 90px;
+}
+
+.desktop-4 .pulses-pRAXaR {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 75px;
+}
+
+.desktop-4 .line-3-pRAXaR {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-pRAXaR {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-Fp4bxt {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-Fp4bxt {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.desktop-4 .packaged-items-7olElM {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 29px;
+  width: auto;
+}
+
+.desktop-4 .group-75-7olElM {
+  --z-index: 3;
+  background-color: transparent;
+  height: 482px;
+  left: 532px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-N4Dxxc {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .lb-per-basket-N4Dxxc {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 203px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .color-N4Dxxc {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-3-N4Dxxc {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-N4Dxxc {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-tzTNqT {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-tzTNqT {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .free-shipping-7olElM {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1258px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+  width: auto;
+}
+
+.desktop-4 .rectangle-49-7olElM {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-49-1.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 560px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop-4 .rectangle-50-7olElM {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-2.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 998px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 235px;
+}
+
+.desktop-4 .group-76-7olElM {
+  --z-index: 7;
+  background-color: transparent;
+  height: 482px;
+  left: 94px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-46-2FCJCz {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .per-basket-2FCJCz {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 56px;
+}
+
+.desktop-4 .fruit-cake-2FCJCz {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: 113px;
+}
+
+.desktop-4 .line-4-2FCJCz {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-73-2FCJCz {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-xDu2TO {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-xDu2TO {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.desktop-4 .firefly-packaged-far-2FCJCz {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-6.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 236px;
+}
+
+.desktop-4 .group-78-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 664px;
+  left: 31px;
+  opacity: 1;
+  position: absolute;
+  top: 1054px;
+  width: 1380px;
+}
+
+.desktop-4 .rectangle-48-hlxJRL {
+  --z-index: 0;
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1376px;
+}
+
+.desktop-4 .herbs-hlxJRL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 29px;
+  width: auto;
+}
+
+.desktop-4 .group-74-hlxJRL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 482px;
+  left: 97px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-44-UPgLE2 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .group-71-UPgLE2 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 54px;
+  left: 59px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-kpCfFA {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-kpCfFA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .dried-herbs-UPgLE2 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-2-UPgLE2 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .oz-per-basket-UPgLE2 {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .group-75-hlxJRL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 482px;
+  left: 532px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-LyOa6v {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .oz-per-basket-LyOa6v {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .assorted-tea-LyOa6v {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-3-LyOa6v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-LyOa6v {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-hF1TSV {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-hF1TSV {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .free-shipping-hlxJRL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1257px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+  width: auto;
+}
+
+.desktop-4 .span0-Z3Gjqt {
+  font-style: normal;
+}
+
+.desktop-4 .span1-Z3Gjqt {
+  font-size: 15px;
+  font-style: normal;
+}
+
+.desktop-4 .firefly-packaged-far-hlxJRL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-7.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 126px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop-4 .assorted-teas-1-hlxJRL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/assorted-teas-1.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 560px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop-4 .group-83-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 664px;
+  left: 31px;
+  opacity: 1;
+  position: absolute;
+  top: 320px;
+  width: 1386px;
+}
+
+.desktop-4 .rectangle-48-jQ4qbJ {
+  --z-index: 0;
+  background-color: #ffffffbf;
+  border: 1px solid;
+  border-color: #0000004f;
+  border-radius: 10px;
+  height: 664px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1376px;
+}
+
+.desktop-4 .fruits-vegetables-jQ4qbJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: 55px;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+
+.desktop-4 .span0-AcXtEJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.desktop-4 .span1-AcXtEJ {
+  font-style: normal;
+}
+
+.desktop-4 .span2-AcXtEJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.desktop-4 .rectangle-44-jQ4qbJ {
+  --z-index: 2;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 97px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 291px;
+}
+
+.desktop-4 .rectangle-47-jQ4qbJ {
+  --z-index: 3;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 156px;
+  opacity: 1;
+  position: absolute;
+  top: 559px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-jQ4qbJ {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 166px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 572px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .firefly-farm-fresh-fruits-31877-1-jQ4qbJ {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-3.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 125px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  width: 236px;
+}
+
+.desktop-4 .fruits-jQ4qbJ {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 211px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 441px;
+  width: auto;
+}
+
+.desktop-4 .line-2-jQ4qbJ {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 125px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 430px;
+  width: 236px;
+}
+
+.desktop-4 .lb-per-basket-jQ4qbJ {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 479px;
+  width: auto;
+}
+
+.desktop-4 .free-shipping-jQ4qbJ {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000b5;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1257px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 630px;
+  width: auto;
+}
+
+.desktop-4 .span0-JYfmbG {
+  font-style: normal;
+}
+
+.desktop-4 .span1-JYfmbG {
+  font-size: 15px;
+  font-style: normal;
+}
+
+.desktop-4 .group-75-jQ4qbJ {
+  --z-index: 10;
+  background-color: transparent;
+  height: 482px;
+  left: 532px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-45-8Gd47t {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .lb-per-basket-8Gd47t {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 203px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .vegetables-8Gd47t {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-3-8Gd47t {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-72-8Gd47t {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-S7Z0bx {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-S7Z0bx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .firefly-farm-fresh-vegetables-94054-1-8Gd47t {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/firefly-raw-milk-in-glass-bottles-50932-1-4.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 236px;
+}
+
+.desktop-4 .group-76-jQ4qbJ {
+  --z-index: 11;
+  background-color: transparent;
+  height: 482px;
+  left: 966px;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  width: 295px;
+}
+
+.desktop-4 .rectangle-46-K73Dmm {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000003b;
+  border-radius: 15px;
+  height: 378px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 291px;
+}
+
+.desktop-4 .lb-per-basket-K73Dmm {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: auto;
+}
+
+.desktop-4 .red-chilies-K73Dmm {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 91px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  width: auto;
+}
+
+.desktop-4 .line-4-K73Dmm {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-3.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  width: 236px;
+}
+
+.desktop-4 .group-73-K73Dmm {
+  --z-index: 4;
+  background-color: transparent;
+  height: 54px;
+  left: 58px;
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  width: 178px;
+}
+
+.desktop-4 .rectangle-47-aoRlZq {
+  --z-index: 0;
+  background-color: #028600;
+  border-radius: 15px;
+  height: 54px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.desktop-4 .add-to-basket-aoRlZq {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.desktop-4 .red-chillies-1-K73Dmm {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/red-chillies-1.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 28px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 236px;
+}
+
+.desktop-4 .rectangle-50-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50@2x.png);
+  background-size: 100% 100%;
+  height: 245px;
+  left: -20139px;
+  opacity: 1;
+  position: absolute;
+  top: -5102px;
+  width: 236px;
+}
+
+.desktop-4 .component-2-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 61px;
+  left: 527px;
+  opacity: 1;
+  position: absolute;
+  top: 3990px;
+  width: 385px;
+}
+
+.desktop-4 .rectangle-11-esxmfg {
+  --z-index: 0;
+  background-color: #03b900;
+  border-radius: 30px;
+  height: 61px;
+  left: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.desktop-4 .order-here-esxmfg {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 385px;
+}
+
+.desktop-4 .group-59-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/group-86.png);
+  background-size: 100% 100%;
+  height: 273px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4113px;
+  width: 1440px;
+}
+
+.desktop-4 .address-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #707070;
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4212px;
+  width: 329px;
+}
+
+.desktop-4 .group-61-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 88px;
+  width: 1442px;
+}
+
+.desktop-4 .rectangle-57-ynAtcP {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 144px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-26-ynAtcP {
+  --z-index: 1;
+  background: linear-gradient(180deg, rgba(222.26171672344208, 218.55735629796982, 218.55735629796982, 0) 34.44696664810181%, rgb(182.8605517745018, 255, 176.58751398324966) 100%);
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 1440px;
+}
+
+.desktop-4 .shop-farm-fresh-products-ynAtcP {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 361px;
+}
+
+.desktop-4 .header-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-3-IcPKRJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 88px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.desktop-4 .group-2-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1437px;
+}
+
+.desktop-4 .valley-oak-farm-GdFcY6 {
+  --z-index: 0;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(2.685198588296771, 134.3000391125679, 0) 0%, rgb(3.7048940593376756, 185.30003607273102, 0) 50.19887685775757%, rgb(4.72458953037858, 236.30003303289413, 0) 100%);
+  background-clip: text;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-fill-color: transparent;
+  top: 15px;
+  width: 379px;
+}
+
+.desktop-4 .logo2-1-GdFcY6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/logo2-1.png);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.desktop-4 .frame-1-GdFcY6 {
+  --z-index: 2;
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 25px;
+  height: 39px;
+  left: 851px;
+  opacity: 1;
+  padding: 0px 25px;
+  position: absolute;
+  top: 25px;
+}
+
+.desktop-4 .home-ZJk7YB {
+  --z-index: 0;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 83.8970947265625px;
+}
+
+.desktop-4 .place-BcvWD6 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 84px;
+}
+
+.desktop-4 .home-yOfE2k {
+  --z-index: 1;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 75.50738525390625px;
+}
+
+.desktop-4 .home-hHWazB {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 76px;
+}
+
+.desktop-4 .home-1apBUd {
+  --z-index: 2;
+  background-color: transparent;
+  height: 38.787879943847656px;
+  opacity: 1;
+  position: relative;
+  width: 60.82539367675781px;
+}
+
+.desktop-4 .home-6nmqVU {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 61px;
+}
+
+.desktop-4 .home-Os5BlZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 38px;
+  opacity: 1;
+  position: relative;
+  width: 119px;
+}
+
+.desktop-4 .home-EQ4cEI {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Aref Ruqaa Ink', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 119px;
+}
+
+.desktop-4 .icon-shopping-basket-ZJk7YB {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/---icon--shopping-basket--5@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 37.75390625px;
+}
+
+.desktop-4 .icon-user-circle-ZJk7YB {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/---icon--user-circle--5@2x.png);
+  background-size: 100% 100%;
+  height: 29.090909957885742px;
+  opacity: 1;
+  position: relative;
+  width: 32.0164794921875px;
+}
+
+.desktop-4 .group-79-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 48px;
+  left: 31px;
+  opacity: 1;
+  position: fixed;
+  top: 171px;
+  width: 1373px;
+}
+
+.desktop-4 .group-70-sbe5OJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1375px;
+}
+
+.desktop-4 .rectangle-41-ti7sSd {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000004c;
+  border-radius: 15px 0px 0px 15px;
+  height: 45px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.desktop-4 .search-products-ti7sSd {
+  --z-index: 1;
+  background-color: transparent;
+  color: #8c8c8c;
+  font-family: 'Aref Ruqaa', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: 174px;
+}
+
+.desktop-4 .rectangle-42-ti7sSd {
+  --z-index: 2;
+  background-color: #028600;
+  border-radius: 0px 15px 15px 0px;
+  height: 45px;
+  left: 397px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 44px;
+}
+
+.desktop-4 .logo-leaf-new-1-2-ti7sSd {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new--1--2@2x.png);
+  background-size: 100% 100%;
+  height: 35px;
+  left: 404px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.desktop-4 .logo-leaf-new-1-1-ti7sSd {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/logo-leaf-new--1--1@2x.png);
+  background-size: 100% 100%;
+  height: 35px;
+  left: 406px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 33px;
+}
+
+.desktop-4 .group-65-ti7sSd {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/group-65@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 40px;
+  left: 480px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 224px;
+}
+
+.desktop-4 .group-67-ti7sSd {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/group-67@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 40px;
+  left: 1001px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 191px;
+}
+
+.desktop-4 .group-68-ti7sSd {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/group-68-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 40px;
+  left: 819px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 168px;
+}
+
+.desktop-4 .group-66-ti7sSd {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/group-66@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 40px;
+  left: 718px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 87px;
+}
+
+.desktop-4 .slider-ti7sSd {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/slider@2x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 1333px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 40px;
+}
+
+.desktop-4 .group-68-sbe5OJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-68@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 40px;
+  left: 1206px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 109px;
+}

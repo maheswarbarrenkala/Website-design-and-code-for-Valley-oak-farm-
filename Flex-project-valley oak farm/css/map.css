@@ -1,0 +1,31 @@
+/* screen - map */
+
+.map {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  width: 24px;
+}
+
+.map .vector-container {
+  align-items: flex-start;
+  background-image: url(../img/vector.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 6px;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 24px;
+  padding: 0 7px;
+}
+
+.map .vector {
+  height: 18px;
+  width: 2px;
+}
+
+.map .vector-1 {
+  align-self: flex-end;
+  height: 18px;
+  width: 2px;
+}
